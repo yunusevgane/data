@@ -3,32 +3,50 @@
         {
             "name": "Teoman",
             "category": "",
+            "description": {
+                "tr": ""
+            },
             "image": "category/teoman.jpg",
             "child": [
                 {
                     "name": "Teoman Bak Hayatina",
                     "path": "mp3/teoman/Teoman-Bak-Hayatina.mp3",
-                    "image": "category/teoman.jpg"
+                    "image": "category/teoman.jpg",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Teoman Bana Oyle Bakma",
                     "path": "mp3/teoman/Teoman-Bana-Oyle-Bakma.mp3",
-                    "image": "category/teoman.jpg"
+                    "image": "category/teoman.jpg",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Teoman Gemiler",
                     "path": "mp3/teoman/Teoman-Gemiler.mp3",
-                    "image": "category/teoman.jpg"
+                    "image": "category/teoman.jpg",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Teoman Kupa Kizi Ve Sinek Valesi",
                     "path": "mp3/teoman/Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
-                    "image": "category/teoman.jpg"
+                    "image": "category/teoman.jpg",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Teoman Napim Tabiatim Boyle",
                     "path": "mp3/teoman/Teoman-Napim-Tabiatim-Boyle.mp3",
-                    "image": "category/teoman.jpg"
+                    "image": "category/teoman.jpg",
+                    "description": {
+                        "tr": ""
+                    }
                 }
             ]
         },
@@ -36,120 +54,195 @@
             "name": "Doğa",
             "category": "",
             "image": "doga/index.png",
+            "description": {
+                "tr": ""
+            },
             "child": [
                 {
                     "name": "Alev Sesi",
                     "path": "doga/Karisik-Sesler-Alev-Ates-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Akarsu Sesi",
                     "path": "doga/Karisik-Sesler-Akarsu-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Kurbağa Sesleri",
                     "path": "doga/Karisik-Sesler-Doga-Kurbaga-Sesleri.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Kuş Sesi",
                     "path": "doga/Karisik-Sesler-Dogal-Kus-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Doğanın Şifalı Sesleri",
                     "path": "doga/Karisik-Sesler-Doganin-Sifali-Sesleri.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Fırtına ve Yağmur",
                     "path": "doga/Karisik-Sesler-Firtina-Yagmur-Gevseme-Uyku-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Gök Gürültülü Sağanak",
                     "path": "doga/Karisik-Sesler-Gok-Gurultulu-Saganak-Yagmur-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Şelale Sesi",
                     "path": "doga/Karisik-Sesler-Huzur-Veren-Selale-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Su Sesi",
                     "path": "doga/Karisik-Sesler-Huzur-Veren-Su-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Irmak Sesi",
                     "path": "doga/Karisik-Sesler-Irmak-Su-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Kar Fırtınası",
                     "path": "doga/Karisik-Sesler-Kar-Firtinasi-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Karadeniz Ormanı",
                     "path": "doga/Karisik-Sesler-Karadeniz-Orman-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Ormanda Kuşlar",
                     "path": "doga/Karisik-Sesler-Ormanda-Kus-Sesleri.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Şömine Sesi",
                     "path": "doga/Karisik-Sesler-Rahatlatici-Somine-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Sabah Güneş Doğuşu",
                     "path": "doga/Karisik-Sesler-Sabah-Gunes-Dogusu.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Şiddetli Rüzgar",
                     "path": "doga/Karisik-Sesler-Siddetli-Ruzgar-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Şömine ve Yağmur",
                     "path": "doga/Karisik-Sesler-Somine-Atesi-ve-Yagmur-Sesi.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Su ve Kuş Sesleri",
                     "path": "doga/Karisik-Sesler-Su-Sesi-Ormanda-Kus.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Rahatlatıcı Yağmur",
                     "path": "doga/Karisik-Sesler-Uyumak-Icin-Rahatlatici-Yagmur.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 },
                 {
                     "name": "Yağmur Ormanı",
                     "path": "doga/Karisik-Sesler-Yagmur-Ormani-Kus-Sesleri.mp3",
-                    "image": "doga/index.png"
+                    "image": "doga/index.png",
+                    "description": {
+                        "tr": ""
+                    }
                 }
             ]
         },
         {
             "name": "Belgesel",
             "category": "",
-            "image": "mp3/uzay.jpg"
+            "image": "mp3/uzay.jpg",
+            "description": {
+                "tr": ""
+            }
         },
-
-
+        {
+            "name": "İngilizce",
+            "category": "",
+            "image": "mp3/uzay.jpg",
+            "description": {
+                "tr": ""
+            }
+        },
         {
             "name": "Ninni",
             "category": "",
-            "image": "ninni/index.jpg"
+            "image": "ninni/index.jpg",
+            "description": {
+                "tr": ""
+            }
         }
     ]
 }
