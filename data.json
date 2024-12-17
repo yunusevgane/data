@@ -2,20 +2,7 @@
     "category": [
        
 
-        {
-            "name": "Doğa",
-            "category": "",
-            "image": "mp3/uzay.jpg"
-        },
-
-
-        {
-            "name": "Belgesel",
-            "category": "",
-            "image": "mp3/uzay.jpg"
-        },
-
-
+  
   
         {
             "name": "teoman",
@@ -54,5 +41,22 @@
                 }
             ]
         }
+,
+
+
+        {
+            "name": "Doğa",
+            "category": "",
+            "image": "mp3/uzay.jpg"
+        },
+
+
+        {
+            "name": "Belgesel",
+            "category": "",
+            "image": "mp3/uzay.jpg"
+        }
+
+
     ]
 }
