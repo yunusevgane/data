@@ -32,7 +32,6 @@
                 }
             ]
         },
-
         {
             "name": "Doğa",
             "category": "",
@@ -42,11 +41,104 @@
                     "name": "Alev Sesi",
                     "path": "doga/Karisik-Sesler-Alev-Ates-Sesi.mp3",
                     "image": "doga/index.png"
+                },
+                {
+                    "name": "Akarsu Sesi",
+                    "path": "doga/Karisik-Sesler-Akarsu-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Kurbağa Sesleri",
+                    "path": "doga/Karisik-Sesler-Doga-Kurbaga-Sesleri.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Kuş Sesi",
+                    "path": "doga/Karisik-Sesler-Dogal-Kus-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Doğanın Şifalı Sesleri",
+                    "path": "doga/Karisik-Sesler-Doganin-Sifali-Sesleri.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Fırtına ve Yağmur",
+                    "path": "doga/Karisik-Sesler-Firtina-Yagmur-Gevseme-Uyku-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Gök Gürültülü Sağanak",
+                    "path": "doga/Karisik-Sesler-Gok-Gurultulu-Saganak-Yagmur-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Şelale Sesi",
+                    "path": "doga/Karisik-Sesler-Huzur-Veren-Selale-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Su Sesi",
+                    "path": "doga/Karisik-Sesler-Huzur-Veren-Su-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Irmak Sesi",
+                    "path": "doga/Karisik-Sesler-Irmak-Su-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Kar Fırtınası",
+                    "path": "doga/Karisik-Sesler-Kar-Firtinasi-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Karadeniz Ormanı",
+                    "path": "doga/Karisik-Sesler-Karadeniz-Orman-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Ormanda Kuşlar",
+                    "path": "doga/Karisik-Sesler-Ormanda-Kus-Sesleri.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Şömine Sesi",
+                    "path": "doga/Karisik-Sesler-Rahatlatici-Somine-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Sabah Güneş Doğuşu",
+                    "path": "doga/Karisik-Sesler-Sabah-Gunes-Dogusu.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Şiddetli Rüzgar",
+                    "path": "doga/Karisik-Sesler-Siddetli-Ruzgar-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Şömine ve Yağmur",
+                    "path": "doga/Karisik-Sesler-Somine-Atesi-ve-Yagmur-Sesi.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Su ve Kuş Sesleri",
+                    "path": "doga/Karisik-Sesler-Su-Sesi-Ormanda-Kus.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Rahatlatıcı Yağmur",
+                    "path": "doga/Karisik-Sesler-Uyumak-Icin-Rahatlatici-Yagmur.mp3",
+                    "image": "doga/index.png"
+                },
+                {
+                    "name": "Yağmur Ormanı",
+                    "path": "doga/Karisik-Sesler-Yagmur-Ormani-Kus-Sesleri.mp3",
+                    "image": "doga/index.png"
                 }
             ]
         },
-
-
         {
             "name": "Belgesel",
             "category": "",
