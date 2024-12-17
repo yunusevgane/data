@@ -244,5 +244,50 @@
                 "tr": ""
             }
         }
+    ],
+    "explore":[
+        {
+            "name": "Keşfet 1",
+            "image": "kesfet.jpg",
+            "spot": {
+                "tr": "spot yazısı 160 karakter"
+            }
+        },
+        {
+            "name": "Keşfet 2",
+            "image": "kesfet.jpg",
+            "spot": {
+                "tr": "spot yazısı 160 karakter"
+            }
+        },
+        {
+            "name": "Keşfet 3",
+            "image": "kesfet.jpg",
+            "spot": {
+                "tr": "spot yazısı 160 karakter"
+            }
+        },
+        {
+            "name": "Keşfet 4",
+            "image": "kesfet.jpg",
+            "spot": {
+                "tr": "spot yazısı 160 karakter"
+            }
+        },
+        {
+            "name": "Keşfet 5",
+            "image": "kesfet.jpg",
+            "spot": {
+                "tr": "spot yazısı 160 karakter"
+            }
+        },
+        {
+            "name": "Keşfet 6",
+            "image": "kesfet.jpg",
+            "spot": {
+                "tr": "spot yazısı 160 karakter"
+            }
+        }
     ]
+
 }
