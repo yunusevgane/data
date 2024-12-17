@@ -1,182 +1,58 @@
 {
     "category": [
-        {
-            "name": "Uzay",
-            "category": "",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Uyku",
-            "category": "",
-            "image": "mp3/uzay.jpg"
-        },
+       
+
         {
             "name": "Doğa",
             "category": "",
             "image": "mp3/uzay.jpg"
         },
+
+
         {
-            "name": "Yağmur",
+            "name": "Belgesel",
             "category": "",
             "image": "mp3/uzay.jpg"
         },
+
+
+  
         {
             "name": "teoman",
             "category": "",
-            "image": "category/teoman.jpg"
-        }
-    ],
-
-    "mp3": [
-        {
-            "name": "Uzay",
-            "category": "Uzay",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Uyku",
-            "category": "Uyku",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Yağmur Sesi",
-            "category": "Yağmur",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Orman",
-            "category": "Doğa",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Dalga Sesi",
-            "category": "Deniz",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Şelale",
-            "category": "Doğa",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Kuş Sesleri",
-            "category": "Doğa",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Gece Sesleri",
-            "category": "Uyku",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Galaksi",
-            "category": "Uzay",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Okyanus",
-            "category": "Deniz",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Fırtına",
-            "category": "Yağmur",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Rüzgar",
-            "category": "Doğa",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Nehir",
-            "category": "Doğa",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Yıldızlar",
-            "category": "Uzay",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Sahil",
-            "category": "Deniz",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Hafif Yağmur",
-            "category": "Yağmur",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Ninni",
-            "category": "Uyku",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Göl",
-            "category": "Doğa",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Meteor",
-            "category": "Uzay",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Derin Uyku",
-            "category": "Uyku",
-            "path": "mp3/uzay.mp3",
-            "image": "mp3/uzay.jpg"
-        },
-        {
-            "name": "Teoman Bak Hayatina",
-            "category": "teoman",
-            "path": "mp3/teoman/Teoman-Bak-Hayatina.mp3",
-            "image": "category/teoman.jpg"
-        },
-        {
-            "name": "Teoman Bana Oyle Bakma",
-            "category": "teoman",
-            "path": "mp3/teoman/Teoman-Bana-Oyle-Bakma.mp3",
-            "image": "category/teoman.jpg"
-        },
-        {
-            "name": "Teoman Gemiler",
-            "category": "teoman",
-            "path": "mp3/teoman/Teoman-Gemiler.mp3",
-            "image": "category/teoman.jpg"
-        },
-        {
-            "name": "Teoman Kupa Kizi Ve Sinek Valesi",
-            "category": "teoman",
-            "path": "mp3/teoman/Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
-            "image": "category/teoman.jpg"
-        },
-        {
-            "name": "Teoman Napim Tabiatim Boyle",
-            "category": "teoman",
-            "path": "mp3/teoman/Teoman-Napim-Tabiatim-Boyle.mp3",
-            "image": "category/teoman.jpg"
+            "image": "category/teoman.jpg",
+            "child": [
+                {
+                    "name": "Teoman Bak Hayatina",
+                    "category": "teoman",
+                    "path": "mp3/teoman/Teoman-Bak-Hayatina.mp3",
+                    "image": "category/teoman.jpg"
+                },
+                {
+                    "name": "Teoman Bana Oyle Bakma",
+                    "category": "teoman",
+                    "path": "mp3/teoman/Teoman-Bana-Oyle-Bakma.mp3",
+                    "image": "category/teoman.jpg"
+                },
+                {
+                    "name": "Teoman Gemiler",
+                    "category": "teoman",
+                    "path": "mp3/teoman/Teoman-Gemiler.mp3",
+                    "image": "category/teoman.jpg"
+                },
+                {
+                    "name": "Teoman Kupa Kizi Ve Sinek Valesi",
+                    "category": "teoman",
+                    "path": "mp3/teoman/Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
+                    "image": "category/teoman.jpg"
+                },
+                {
+                    "name": "Teoman Napim Tabiatim Boyle",
+                    "category": "teoman",
+                    "path": "mp3/teoman/Teoman-Napim-Tabiatim-Boyle.mp3",
+                    "image": "category/teoman.jpg"
+                }
+            ]
         }
     ]
 }
