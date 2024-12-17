@@ -21,9 +21,9 @@
             "image": "mp3/uzay.jpg"
         },
         {
-            "name": "Deniz",
+            "name": "teoman",
             "category": "",
-            "image": "mp3/uzay.jpg"
+            "image": "category/teoman.jpg"
         }
     ],
 
@@ -147,6 +147,36 @@
             "category": "Uyku",
             "path": "mp3/uzay.mp3",
             "image": "mp3/uzay.jpg"
+        },
+        {
+            "name": "Papatya",
+            "category": "teoman",
+            "path": "category/teoman/papatya.mp3",
+            "image": "category/teoman.jpg"
+        },
+        {
+            "name": "17",
+            "category": "teoman",
+            "path": "category/teoman/17.mp3",
+            "image": "category/teoman.jpg"
+        },
+        {
+            "name": "İstanbul'da Sonbahar",
+            "category": "teoman",
+            "path": "category/teoman/istanbulda-sonbahar.mp3",
+            "image": "category/teoman.jpg"
+        },
+        {
+            "name": "Paramparça",
+            "category": "teoman",
+            "path": "category/teoman/paramparca.mp3",
+            "image": "category/teoman.jpg"
+        },
+        {
+            "name": "Rüzgar Gülü",
+            "category": "teoman",
+            "path": "category/teoman/ruzgar-gulu.mp3",
+            "image": "category/teoman.jpg"
         }
     ]
 }
