@@ -1,9 +1,5 @@
 {
     "category": [
-       
-
-  
-  
         {
             "name": "teoman",
             "category": "",
@@ -61,8 +57,13 @@
             "name": "Belgesel",
             "category": "",
             "image": "mp3/uzay.jpg"
+        },
+
+
+        {
+            "name": "Nini",
+            "category": "",
+            "image": "ninni/index.jpg"
         }
-
-
     ]
 }
