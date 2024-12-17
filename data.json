@@ -1,37 +1,32 @@
 {
     "category": [
         {
-            "name": "teoman",
+            "name": "Teoman",
             "category": "",
             "image": "category/teoman.jpg",
             "child": [
                 {
                     "name": "Teoman Bak Hayatina",
-                    "category": "teoman",
                     "path": "mp3/teoman/Teoman-Bak-Hayatina.mp3",
                     "image": "category/teoman.jpg"
                 },
                 {
                     "name": "Teoman Bana Oyle Bakma",
-                    "category": "teoman",
                     "path": "mp3/teoman/Teoman-Bana-Oyle-Bakma.mp3",
                     "image": "category/teoman.jpg"
                 },
                 {
                     "name": "Teoman Gemiler",
-                    "category": "teoman",
                     "path": "mp3/teoman/Teoman-Gemiler.mp3",
                     "image": "category/teoman.jpg"
                 },
                 {
                     "name": "Teoman Kupa Kizi Ve Sinek Valesi",
-                    "category": "teoman",
                     "path": "mp3/teoman/Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
                     "image": "category/teoman.jpg"
                 },
                 {
                     "name": "Teoman Napim Tabiatim Boyle",
-                    "category": "teoman",
                     "path": "mp3/teoman/Teoman-Napim-Tabiatim-Boyle.mp3",
                     "image": "category/teoman.jpg"
                 }
@@ -45,7 +40,6 @@
             "child": [
                 {
                     "name": "Alev Sesi",
-                    "category": "doga",
                     "path": "doga/Karisik-Sesler-Alev-Ates-Sesi.mp3",
                     "image": "doga/index.png"
                 }
@@ -61,7 +55,7 @@
 
 
         {
-            "name": "Nini",
+            "name": "Ninni",
             "category": "",
             "image": "ninni/index.jpg"
         }
