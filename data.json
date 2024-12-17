@@ -149,33 +149,33 @@
             "image": "mp3/uzay.jpg"
         },
         {
-            "name": "Papatya",
+            "name": "Teoman-Bak-Hayatina",
             "category": "teoman",
-            "path": "category/teoman/papatya.mp3",
+            "path": "category/teoman/Teoman-Bak-Hayatina",
             "image": "category/teoman.jpg"
         },
         {
-            "name": "17",
+            "name": "Teoman-Bana-Oyle-Bakma",
             "category": "teoman",
-            "path": "category/teoman/17.mp3",
+            "path": "category/teoman/Teoman-Bana-Oyle-Bakma.mp3",
             "image": "category/teoman.jpg"
         },
         {
-            "name": "İstanbul'da Sonbahar",
+            "name": "Teoman-Gemiler.mp3",
             "category": "teoman",
-            "path": "category/teoman/istanbulda-sonbahar.mp3",
+            "path": "category/teoman/Teoman-Gemiler.mp3",
             "image": "category/teoman.jpg"
         },
         {
-            "name": "Paramparça",
+            "name": "Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
             "category": "teoman",
-            "path": "category/teoman/paramparca.mp3",
+            "path": "category/teoman/Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
             "image": "category/teoman.jpg"
         },
         {
-            "name": "Rüzgar Gülü",
+            "name": "Teoman-Napim-Tabiatim-Boyle",
             "category": "teoman",
-            "path": "category/teoman/ruzgar-gulu.mp3",
+            "path": "category/teoman/Teoman-Napim-Tabiatim-Boyle.mp3",
             "image": "category/teoman.jpg"
         }
     ]
