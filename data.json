@@ -47,7 +47,15 @@
         {
             "name": "Doğa",
             "category": "",
-            "image": "mp3/uzay.jpg"
+            "image": "doga/index.png",
+            "child": [
+                {
+                    "name": "Alev Sesi",
+                    "category": "doga",
+                    "path": "doga/Karisik-Sesler-Alev-Ates-Sesi.mp3",
+                    "image": "doga/index.png"
+                }
+            ]
         },
 
 
