@@ -3,27 +3,27 @@
         {
             "name": "Uzay",
             "category": "",
-            "image": "assets/mp3/uzay.jpg"
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Uyku",
             "category": "",
-            "image": "assets/mp3/uzay.jpg"
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Doğa",
             "category": "",
-            "image": "assets/mp3/uzay.jpg"
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Yağmur",
             "category": "",
-            "image": "assets/mp3/uzay.jpg"
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Deniz",
             "category": "",
-            "image": "assets/mp3/uzay.jpg"
+            "image": "mp3/uzay.jpg"
         }
     ],
 
@@ -31,122 +31,122 @@
         {
             "name": "Uzay",
             "category": "Uzay",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Uyku",
             "category": "Uyku",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Yağmur Sesi",
             "category": "Yağmur",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Orman",
             "category": "Doğa",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Dalga Sesi",
             "category": "Deniz",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Şelale",
             "category": "Doğa",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Kuş Sesleri",
             "category": "Doğa",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Gece Sesleri",
             "category": "Uyku",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Galaksi",
             "category": "Uzay",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Okyanus",
             "category": "Deniz",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Fırtına",
             "category": "Yağmur",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Rüzgar",
             "category": "Doğa",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Nehir",
             "category": "Doğa",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Yıldızlar",
             "category": "Uzay",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Sahil",
             "category": "Deniz",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Hafif Yağmur",
             "category": "Yağmur",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Ninni",
             "category": "Uyku",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Göl",
             "category": "Doğa",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Meteor",
             "category": "Uzay",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         },
         {
             "name": "Derin Uyku",
             "category": "Uyku",
-            "path": "assets/mp3/uzay.mp3",
-            "image": "assets/mp3/uzay.jpg"
+            "path": "mp3/uzay.mp3",
+            "image": "mp3/uzay.jpg"
         }
     ]
 }
