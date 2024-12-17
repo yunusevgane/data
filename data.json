@@ -151,31 +151,31 @@
         {
             "name": "Teoman Bak Hayatina",
             "category": "teoman",
-            "path": "category/teoman/Teoman-Bak-Hayatina.mp3",
+            "path": "mp3/teoman/Teoman-Bak-Hayatina.mp3",
             "image": "category/teoman.jpg"
         },
         {
             "name": "Teoman Bana Oyle Bakma",
             "category": "teoman",
-            "path": "category/teoman/Teoman-Bana-Oyle-Bakma.mp3",
+            "path": "mp3/teoman/Teoman-Bana-Oyle-Bakma.mp3",
             "image": "category/teoman.jpg"
         },
         {
             "name": "Teoman Gemiler",
             "category": "teoman",
-            "path": "category/teoman/Teoman-Gemiler.mp3",
+            "path": "mp3/teoman/Teoman-Gemiler.mp3",
             "image": "category/teoman.jpg"
         },
         {
             "name": "Teoman Kupa Kizi Ve Sinek Valesi",
             "category": "teoman",
-            "path": "category/teoman/Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
+            "path": "mp3/teoman/Teoman-Kupa-Kizi-Ve-Sinek-Valesi.mp3",
             "image": "category/teoman.jpg"
         },
         {
             "name": "Teoman Napim Tabiatim Boyle",
             "category": "teoman",
-            "path": "category/teoman/Teoman-Napim-Tabiatim-Boyle.mp3",
+            "path": "mp3/teoman/Teoman-Napim-Tabiatim-Boyle.mp3",
             "image": "category/teoman.jpg"
         }
     ]
