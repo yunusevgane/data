@@ -4,169 +4,127 @@
             "name": "Doğa",
             "category": "",
             "image": "doga/index.png",
-            "description": {
-                "tr": ""
-            },
+            "description": "",
             "child": [
                 {
                     "name": "Alev Sesi",
                     "path": "doga/Karisik-Sesler-Alev-Ates-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Akarsu Sesi",
                     "path": "doga/Karisik-Sesler-Akarsu-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Kurbağa Sesleri",
                     "path": "doga/Karisik-Sesler-Doga-Kurbaga-Sesleri.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Kuş Sesi",
                     "path": "doga/Karisik-Sesler-Dogal-Kus-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Doğanın Şifalı Sesleri",
                     "path": "doga/Karisik-Sesler-Doganin-Sifali-Sesleri.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Fırtına ve Yağmur",
                     "path": "doga/Karisik-Sesler-Firtina-Yagmur-Gevseme-Uyku-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Gök Gürültülü Sağanak",
                     "path": "doga/Karisik-Sesler-Gok-Gurultulu-Saganak-Yagmur-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Şelale Sesi",
                     "path": "doga/Karisik-Sesler-Huzur-Veren-Selale-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Su Sesi",
                     "path": "doga/Karisik-Sesler-Huzur-Veren-Su-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Irmak Sesi",
                     "path": "doga/Karisik-Sesler-Irmak-Su-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Kar Fırtınası",
                     "path": "doga/Karisik-Sesler-Kar-Firtinasi-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Karadeniz Ormanı",
                     "path": "doga/Karisik-Sesler-Karadeniz-Orman-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Ormanda Kuşlar",
                     "path": "doga/Karisik-Sesler-Ormanda-Kus-Sesleri.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Şömine Sesi",
                     "path": "doga/Karisik-Sesler-Rahatlatici-Somine-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Sabah Güneş Doğuşu",
                     "path": "doga/Karisik-Sesler-Sabah-Gunes-Dogusu.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Şiddetli Rüzgar",
                     "path": "doga/Karisik-Sesler-Siddetli-Ruzgar-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Şömine ve Yağmur",
                     "path": "doga/Karisik-Sesler-Somine-Atesi-ve-Yagmur-Sesi.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Su ve Kuş Sesleri",
                     "path": "doga/Karisik-Sesler-Su-Sesi-Ormanda-Kus.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Rahatlatıcı Yağmur",
                     "path": "doga/Karisik-Sesler-Uyumak-Icin-Rahatlatici-Yagmur.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Yağmur Ormanı",
                     "path": "doga/Karisik-Sesler-Yagmur-Ormani-Kus-Sesleri.mp3",
                     "image": "doga/index.png",
-                    "description": {
-                        "tr": ""
-                    }
+                    "description": ""
                 }
             ]
         },
@@ -174,89 +132,67 @@
             "name": "Ninni",
             "category": "",
             "image": "ninni/index.jpg",
-            "description": {
-                "tr": ""
-            },
+            "description": "",
             "child": [
                 {
                     "name": "Alma Attım Yuvarlandı",
                     "path": "ninni/Mircan-Kaya-Alma-Attim-Yuvarlandi-Ninnisi.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Alma Attım Yuvarlandı Ninnisi"
-                    }
+                    "description": "Mircan Kaya - Alma Attım Yuvarlandı Ninnisi"
                 },
                 {
                     "name": "Atem Tutem Men Seni",
                     "path": "ninni/Mircan-Kaya-Atem-Tutem-Men-Seni-Ninnisi.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Atem Tutem Men Seni Ninnisi"
-                    }
+                    "description": "Mircan Kaya - Atem Tutem Men Seni Ninnisi"
                 },
                 {
                     "name": "Çamlıbelden Çıktım Yayan",
                     "path": "ninni/Mircan-Kaya-Camlibelden-Ciktim-Yayan-Ninnisi.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Çamlıbelden Çıktım Yayan Ninnisi"
-                    }
+                    "description": "Mircan Kaya - Çamlıbelden Çıktım Yayan Ninnisi"
                 },
                 {
                     "name": "Dandini Dandini Danalı Bebek",
                     "path": "ninni/Mircan-Kaya-Dandini-Dandini-Danali-Bebek-Ninnisi.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Dandini Dandini Danalı Bebek Ninnisi"
-                    }
+                    "description": "Mircan Kaya - Dandini Dandini Danalı Bebek Ninnisi"
                 },
                 {
                     "name": "Dandini Dandini Dastana",
                     "path": "ninni/Mircan-Kaya-Dandini-Dandini-Dastana-Ninnisi.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Dandini Dandini Dastana Ninnisi"
-                    }
+                    "description": "Mircan Kaya - Dandini Dandini Dastana Ninnisi"
                 },
                 {
                     "name": "Eşekli Ninni",
                     "path": "ninni/Mircan-Kaya-Esekli-Ninni.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Eşekli Ninni"
-                    }
+                    "description": "Mircan Kaya - Eşekli Ninni"
                 },
                 {
                     "name": "Fış Fış Kayıkçı",
                     "path": "ninni/Mircan-Kaya-Fis-Fis-Kayikci-Ninnisi.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Fış Fış Kayıkçı Ninnisi"
-                    }
+                    "description": "Mircan Kaya - Fış Fış Kayıkçı Ninnisi"
                 },
                 {
                     "name": "Uyu Yavrum Yine Sabah Oluyor",
                     "path": "ninni/Mircan-Kaya-Uyu-Yavrum-Yine-Sabah-Oluyor-Ninnisi.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Uyu Yavrum Yine Sabah Oluyor Ninnisi"
-                    }
+                    "description": "Mircan Kaya - Uyu Yavrum Yine Sabah Oluyor Ninnisi"
                 },
                 {
                     "name": "Uyusun da Büyüsün",
                     "path": "ninni/Mircan-Kaya-Uyusun-da-Buyusun-Ninni.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Uyusun da Büyüsün Ninni"
-                    }
+                    "description": "Mircan Kaya - Uyusun da Büyüsün Ninni"
                 },
                 {
                     "name": "Uzun Kesintisiz Ninni",
                     "path": "ninni/Mircan-Kaya-Uzun-Kesintisiz-Ninni.mp3",
                     "image": "ninni/index.jpg",
-                    "description": {
-                        "tr": "Mircan Kaya - Uzun Kesintisiz Ninni"
-                    }
+                    "description": "Mircan Kaya - Uzun Kesintisiz Ninni"
                 }
             ]
         },
@@ -264,89 +200,79 @@
             "name": "Merkür Belgeseli",
             "category": "",
             "image": "merkur/index.jpeg",
-            "description": {
-                "tr": "Güneş sisteminin en küçük ve Güneş'e en yakın gezegeni"
-            },
+            "description": "Güneş'e en yakın ve en küçük gezegen. Yüzeyi kraterlerle kaplı, sıcaklık farkları çok yüksek, manyetik alana sahip gizemli bir dünya.",
             "child": [
                 {
                     "name": "Bölüm 1: Genel Bakış",
-                    "path": "merkur/bolum1.wav",
+                    "path": "merkur/bolum1-1.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Güneş sisteminin gizemli gezegeni Merkür'e hoş geldiniz. Bu bölümde, Güneş'e en yakın ve en küçük gezegen olan Merkür'ü yakından tanıyacağız. Antik çağlardan beri insanların ilgisini çeken bu gezegen, Roma mitolojisinde ticaret ve iletişim tanrısı olan Merkür'den adını almıştır. Güneş'e olan yakınlığı nedeniyle çıplak gözle gözlemlenmesi oldukça zordur ve genellikle gün doğumu veya gün batımında kısa sürelerle görülebilir. Merkür, Güneş'e olan mesafesi nedeniyle yılın büyük bölümünde parlak gökyüzü ışığında kaybolur. Çapı sadece 4.879 kilometre olan Merkür, Dünya'nın uydumuz Ay'dan yalnızca %40 daha büyüktür. Bu küçük boyutuna rağmen, inanılmaz derecede yoğun bir yapıya sahiptir. Yüzey yerçekimi, boyutuna göre şaşırtıcı derecede güçlüdür ve bunun nedeni gezegenin büyük oranda demirden oluşan çekirdeğidir. Merkür'ün yörüngesi oldukça eliptiktir ve Güneş'e olan uzaklığı 46 ile 70 milyon kilometre arasında değişir. Bu değişken yörünge, gezegenin yüzeyindeki sıcaklık farklarının ekstrem seviyelere ulaşmasına neden olur. Güneş'e bakan yüzeyi 430 derece sıcaklığa ulaşırken, karanlık tarafı -180 dereceye kadar soğuyabilir. Merkür'ün atmosferi neredeyse yok denecek kadar incedir ve bu nedenle yüzeyi sayısız meteor çarpması ile şekillenmiştir. En dikkat çekici yüzey özelliği, çapı 1.550 kilometre olan Caloris Havzası'dır. Bu dev krater, güneş sisteminin en büyük çarpma kraterlerinden biridir. Gezegenin bir diğer ilginç özelliği, kendi ekseni etrafındaki dönüş hızının Güneş etrafındaki dolanım hızıyla özel bir uyum içinde olmasıdır. Bu 3:2 rezonans olarak bilinen durum, Merkür'ün üç kez kendi ekseni etrafında dönerken Güneş etrafında iki kez dolanmasına neden olur. Bu benzersiz özellik, Merkür'ün gün uzunluğunun Dünya'dakinden çok farklı olmasına yol açar."
-                    }
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 1: Genel Bakış (Devam)",
+                    "path": "merkur/bolum1-2.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 2: Yüzey Yapısı",
-                    "path": "merkur/bolum2.wav",
+                    "path": "merkur/bolum2-1.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün yüzeyine yakından baktığımızda, milyarlarca yıllık bir kozmik tarihin izlerini görüyoruz. Gezegenin yüzeyi, Ay'ınkine benzer şekilde kraterler, düzlükler ve derin vadilerle kaplıdır. Ancak Merkür'ün yüzey yapısı, kendine has özellikleriyle dikkat çeker. Gezegenin en çarpıcı yüzey özelliği olan Caloris Havzası, yaklaşık 3.8 milyar yıl önce gerçekleşen dev bir asteroid çarpmasının sonucunda oluşmuştur. Bu çarpmanın etkisi o kadar güçlüydü ki, gezegenin diğer tarafında dağ sıraları ve bozuk arazi yapıları oluşmasına neden oldu. Merkür'ün yüzeyinde görülen bir diğer ilginç oluşum, 'lobate scarps' olarak adlandırılan kıvrımlı yamaçlardır. Bu yapılar, gezegenin soğuması ve büzülmesi sonucunda oluşmuştur ve bazıları yüzlerce kilometre uzunluğa sahiptir. Gezegenin yüzeyindeki kraterler, farklı jeolojik dönemlerde oluşmuştur ve bazıları oldukça iyi korunmuş durumdadır. Bu kraterlerin içinde ve çevresinde, parlak ışın sistemleri görülür. Bu ışınlar, çarpma anında fırlayan malzemelerin oluşturduğu izlerdir ve gezegenin yüzeyinde yıldız benzeri desenler oluşturur. Merkür'ün yüzeyinde ayrıca geniş düzlükler bulunur. Bu alanlar, gezegenin erken dönemlerinde meydana gelen volkanik aktiviteler sonucu oluşmuştur. Lav akıntılarının izleri hala belirgin şekilde görülebilmektedir. Gezegenin kutup bölgelerinde, daimi gölgede kalan derin krater tabanlarında su buzu bulunduğuna dair güçlü kanıtlar vardır. Bu buz depolarının varlığı, radar gözlemleriyle tespit edilmiştir ve Merkür'ün oluşum sürecine dair önemli ipuçları sunmaktadır. Yüzeydeki bu özelliklerin tümü, Merkür'ün dinamik bir jeolojik geçmişe sahip olduğunu gösterir ve gezegenin evrimini anlamamıza yardımcı olur."
-                    }
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 2: Yüzey Yapısı (Devam)",
+                    "path": "merkur/bolum2-2.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 3: Atmosfer ve İklim",
                     "path": "merkur/bolum3.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün atmosferi ve iklimi, güneş sistemindeki en ekstrem koşullardan bazılarını barındırır. Gezegenin atmosferi o kadar incedir ki, buna 'eksosfer' adı verilir. Bu son derece seyrek atmosfer, güneş rüzgarları tarafından sürekli olarak uzaya savrulur ve yerini yeni atomlar alır. Atmosferin ana bileşenleri arasında hidrojen, helyum, oksijen, sodyum, potasyum ve kalsiyum bulunur. Bu elementlerin çoğu, güneş rüzgarlarının yüzeye çarpması, meteorit düşmeleri ve gezegen yüzeyinden kopan parçacıklar sonucu oluşur. Merkür'ün iklimi, Güneş'e yakınlığı nedeniyle inanılmaz sıcaklık farklarına sahiptir. Gündüz yüzeyinde sıcaklık 430 santigrat dereceye kadar yükselir, bu sıcaklık kurşunu bile eritebilecek düzeydedir. Gece ise sıcaklık -180 santigrat dereceye kadar düşer. Bu muazzam sıcaklık farkı, atmosferin olmaması ve gezegenin yavaş dönüşü nedeniyle ortaya çıkar. Merkür'ün bir günü, Dünya'daki 176 güne eşittir. Bu uzun gün-gece döngüsü, yüzeydeki sıcaklık değişimlerinin daha da şiddetli olmasına neden olur. İlginç bir şekilde, Merkür'ün kutup bölgelerinde, sürekli gölgede kalan derin krater tabanlarında sıcaklık hiç değişmez ve daima -170 santigrat derece civarındadır. Bu sabit soğuk bölgeler, su buzunun varlığını mümkün kılar. Gezegenin manyetik alanı zayıf olmasına rağmen, güneş rüzgarlarıyla etkileşime girerek ilginç atmosferik olaylar yaratır. Bu etkileşimler, özellikle gezegenin manyetosferinde gözlemlenen plazma dalgaları şeklinde kendini gösterir. Merkür'ün atmosferi ve iklimi, gezegenin oluşumundan bu yana geçirdiği evrim hakkında önemli ipuçları sunar ve güneş sisteminin iç bölgelerindeki gezegenlerin nasıl şekillendiğini anlamamıza yardımcı olur."
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 4: Manyetik Alan",
                     "path": "merkur/bolum4.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün manyetik alanı, boyutuna göre şaşırtıcı derecede güçlü ve karmaşık bir yapıya sahiptir. NASA'nın MESSENGER uzay aracı, bu manyetik alanın detaylı haritasını çıkarmayı başarmıştır. Gezegenin manyetik alanı, Dünya'nınkinden yaklaşık 100 kat daha zayıf olmasına rağmen, varlığı bile bilim insanları için büyük bir sürpriz olmuştur. Bu manyetik alan, gezegenin sıvı demir çekirdeğindeki dinamik süreçler sonucu oluşur. Merkür'ün çekirdeği, gezegenin toplam hacminin yaklaşık %42'sini kaplar, bu oran güneş sistemindeki diğer karasal gezegenlerden çok daha yüksektir. Manyetik alan, güneş rüzgarlarına karşı bir kalkan görevi görür, ancak bu koruma Dünya'nınki kadar etkili değildir. Güneş rüzgarları, Merkür'ün manyetosferini sürekli olarak deforme eder ve gezegenin yüzeyine kadar ulaşabilir. Bu etkileşim sonucunda, gezegenin atmosferinde ilginç kimyasal reaksiyonlar meydana gelir. MESSENGER'ın gözlemleri, manyetik alanın güney yarımkürede daha güçlü olduğunu göstermiştir. Bu asimetrik yapı, gezegenin iç dinamikleri hakkında önemli ipuçları sunar. Manyetik alan ayrıca, Merkür'ün kutup bölgelerinde görülen aurora benzeri olayların oluşmasına da katkıda bulunur. Bu olaylar, Dünya'daki kuzey ışıklarına benzer, ancak çok daha zayıftır. Merkür'ün manyetik alanının incelenmesi, gezegenlerin manyetik alan oluşturma mekanizmalarını anlamamıza yardımcı olur ve güneş sisteminin erken dönemlerindeki koşullar hakkında bilgi verir."
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 5: İç Yapı",
                     "path": "merkur/bolum5.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün iç yapısı, güneş sistemindeki en ilginç jeolojik özelliklerden birine sahiptir. Gezegen, üç ana katmandan oluşur: metalik çekirdek, kayalık manto ve ince kabuk. En dikkat çekici özelliği, devasa metalik çekirdeğidir. Bu çekirdek, gezegenin toplam hacminin yaklaşık %42'sini kaplar ve büyük oranda demirden oluşur. Karşılaştırma yapmak gerekirse, Dünya'nın çekirdeği gezegenin toplam hacminin sadece %17'sini oluşturur. Merkür'ün çekirdeği kısmen sıvı haldedir ve bu durum gezegenin manyetik alanının oluşmasını sağlar. Çekirdeğin üzerinde ince bir silika ve magnezyum açısından zengin manto katmanı bulunur. Bu manto katmanı, Dünya'nınkinden çok daha incedir. En dışta ise yaklaşık 35 kilometre kalınlığında bir kabuk yer alır. Bu kabuk, çoğunlukla bazalt kayaçlarından oluşur ve sayısız kraterle kaplıdır. Merkür'ün bu olağandışı iç yapısı, gezegenin oluşum sürecinde yaşanan dramatik olayların sonucudur. Bilim insanları, gezegenin erken dönemlerinde büyük bir çarpışma yaşamış olabileceğini ve bu çarpışmanın dış katmanların büyük bir kısmını uzaya savurmuş olabileceğini düşünüyor. Bu teori, gezegenin neden bu kadar yoğun bir yapıya sahip olduğunu açıklamaya yardımcı olur. Merkür'ün iç yapısının incelenmesi, güneş sisteminin oluşum sürecini ve karasal gezegenlerin evrimini anlamamıza önemli katkılar sağlar."
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 6: Keşif Tarihi",
                     "path": "merkur/bolum6.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün keşif tarihi, antik çağlara kadar uzanır. İlk gözlemler, Sümerler ve Babilliler tarafından yapılmıştır. Antik Yunanlar, gezegene hızlı hareketi nedeniyle tanrıları Hermes'in adını vermişlerdir. Romalılar ise bu geleneği devam ettirerek gezegene, tanrıları Merkür'ün adını vermişlerdir. Teleskobun icadıyla birlikte, Galileo Galilei 1600'lü yıllarda Merkür'ü daha detaylı gözlemlemeye başlamıştır. 1631'de Pierre Gassendi, Merkür'ün Güneş önünden geçişini ilk kez belgelemiştir. Modern çağda Merkür'ün keşfi, 1974-1975 yıllarında Mariner 10 uzay aracının üç yakın geçişiyle yeni bir boyut kazanmıştır. Mariner 10, gezegenin yüzeyinin %45'ini fotoğraflamayı başarmış ve manyetik alanının varlığını keşfetmiştir. 2004 yılında fırlatılan MESSENGER uzay aracı, 2011-2015 yılları arasında Merkür'ün yörüngesinde görev yapmış ve gezegenin ilk kapsamlı haritasını çıkarmıştır. MESSENGER, gezegenin kutup bölgelerinde su buzu bulunduğunu doğrulamış ve yüzey bileşimi hakkında değerli veriler toplamıştır. 2018 yılında fırlatılan BepiColombo uzay aracı, Avrupa Uzay Ajansı ve Japon Uzay Ajansı'nın ortak projesidir ve 2025 yılında Merkür'e ulaşması beklenmektedir. Bu görev, gezegenin gizemlerini çözmek için şimdiye kadar yapılmış en kapsamlı araştırmayı gerçekleştirecektir."
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 7: Yörünge Özellikleri",
                     "path": "merkur/bolum7.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün yörünge özellikleri, güneş sistemindeki en ilginç örneklerden biridir. Gezegen, Güneş'e en yakın konumda 46 milyon kilometre, en uzak konumda ise 70 milyon kilometre mesafede bulunur. Bu eliptik yörünge, Merkür'ün Güneş etrafındaki hızının sürekli değişmesine neden olur. Kepler'in yasalarına göre, gezegen Güneş'e yakınken daha hızlı, uzakken daha yavaş hareket eder. Merkür'ün en dikkat çekici özelliklerinden biri, kendi ekseni etrafındaki dönüşü ile Güneş etrafındaki dolanımı arasındaki özel ilişkidir. Bu ilişki, 3:2 rezonans olarak bilinir. Yani Merkür, Güneş etrafında iki kez dolanırken, kendi ekseni etrafında üç kez döner. Bu durum, Merkür'de bir günün, gezegenin Güneş etrafındaki dolanım süresinin üçte ikisine eşit olmasına yol açar. Sonuç olarak, Merkür'de bir gün yaklaşık 176 Dünya gününe eşittir. Gezegenin yörünge düzlemi, ekliptik düzlemle 7 derecelik bir açı yapar. Bu eğim, Merkür'ün Güneş önünden geçişlerinin neden her yıl gözlenemediğini açıklar. Merkür'ün yörüngesi ayrıca, Einstein'ın Genel Görelilik Teorisi'nin ilk deneysel kanıtlarından birini sağlamıştır. Gezegenin yörüngesindeki küçük bir sapma, Newton'un yerçekimi yasalarıyla açıklanamıyordu ve bu sapma ancak Genel Görelilik Teorisi ile açıklanabilmiştir."
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 8: Kutup Bölgeleri",
                     "path": "merkur/bolum8.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün kutup bölgeleri, gezegenin en şaşırtıcı sırlarından bazılarını barındırır. Bu bölgelerde, daimi gölgede kalan derin krater tabanlarında su buzu bulunduğu keşfedilmiştir. Bu keşif, 1990'lı yıllarda Dünya'daki radar teleskoplarıyla yapılan gözlemlerle başlamış ve MESSENGER uzay aracı tarafından doğrulanmıştır. Kutup kraterlerinin bazıları o kadar derindir ki, güneş ışığı hiçbir zaman bu kraterlerin tabanına ulaşamaz. Bu sürekli karanlık bölgelerde sıcaklık -170 santigrat derece civarında sabit kalır. Bu soğuk tuzaklar, muhtemelen asteroid ve kuyruklu yıldız çarpmaları sonucu gezegene ulaşan su buzunu milyarlarca yıl boyunca koruyabilmiştir. Radar gözlemleri, kutuplardaki buz depolarının toplam hacminin yaklaşık 100 milyar ton olabileceğini gösteriyor. Buzun yanı sıra, bu bölgelerde organik bileşikler ve uçucu elementler de tespit edilmiştir. Bu malzemelerin varlığı, Merkür'ün oluşumu ve güneş sisteminin erken dönemleri hakkında önemli ipuçları sunar. Kutup bölgelerindeki kraterler aynı zamanda, gezegenin jeolojik tarihi hakkında da bilgi verir. Bu kraterlerin bazıları oldukça genç, bazıları ise milyarlarca yıl öncesine dayanır."
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 9: Güneş Etkileşimi",
                     "path": "merkur/bolum9.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün Güneş ile etkileşimi, güneş sistemindeki en yoğun ve dramatik ilişkilerden biridir. Güneş'e en yakın gezegen olarak Merkür, inanılmaz derecede güçlü radyasyon ve ısıya maruz kalır. Güneş'ten gelen enerji akışı, Dünya'nın aldığının yaklaşık 7 katıdır. Bu yoğun radyasyon, gezegenin yüzey sıcaklığının gündüzleri 430 santigrat dereceye kadar yükselmesine neden olur. Güneş rüzgarları, Merkür'ün zayıf manyetik alanını sürekli olarak bombardımana tutar. Bu etkileşim, gezegenin manyetosferinde karmaşık plazma olaylarına yol açar. Güneş'ten gelen yüklü parçacıklar, Merkür'ün ince atmosferini sürekli olarak aşındırır ve yeni parçacıkların atmosfere katılmasına neden olur. Bu dinamik süreç, gezegenin etrafında sürekli değişen bir plazma ortamı oluşturur. Güneş patlamaları sırasında, Merkür'ün atmosferi ve manyetosferi dramatik değişimler geçirir. Bu olaylar sırasında gezegenin yüzeyinden kopan atomlar, uzaya saçılır ve gezegenin kuyruğu olarak bilinen uzun bir plazma yapısı oluşur. Merkür'ün Güneş'e olan yakınlığı, onu güneş sisteminin en dinamik ve değişken ortamlarından birine sahip kılar."
-                    }
+                    "description": ""
                 },
                 {
                     "name": "Bölüm 10: Gelecek Keşifler",
                     "path": "merkur/bolum10.mp3",
                     "image": "merkur/index.jpeg",
-                    "description": {
-                        "tr": "Merkür'ün gelecekteki keşif planları, uzay araştırmalarının en heyecan verici projelerinden birini oluşturur. Şu anda gezegene doğru yol alan BepiColombo uzay aracı, Avrupa Uzay Ajansı ve Japon Uzay Ajansı'nın ortak bir projesidir. 2018 yılında fırlatılan bu uzay aracı, 2025 yılında Merkür'ün yörüngesine yerleşecek. BepiColombo, iki ayrı yörünge aracından oluşur: Merkür Gezegen Yörünge Aracı ve Merkür Manyetosfer Yörünge Aracı. Bu araçlar, gezegenin yüzeyini, iç yapısını, atmosferini ve manyetik alanını her zamankinden daha detaylı inceleyecek. Özellikle kutup bölgelerindeki buz depolarının kökeni ve bileşimi araştırılacak. Gezegenin manyetik alanının nasıl oluştuğu ve güneş rüzgarlarıyla nasıl etkileşime girdiği detaylı olarak incelenecek. BepiColombo'nun taşıdığı gelişmiş bilimsel aletler, Merkür'ün mineral yapısını ve yüzey bileşimini hassas bir şekilde analiz edebilecek. Bu veriler, gezegenin oluşum sürecini ve güneş sisteminin erken dönemlerini anlamamıza yardımcı olacak. Gelecekte planlanabilecek diğer görevler arasında, Merkür'ün yüzeyine iniş yapacak uzay araçları ve yüzey araştırma robotları da bulunuyor. Bu görevler, gezegenin gizemlerini çözmemize ve güneş sisteminin oluşumu hakkında daha fazla bilgi edinmemize yardımcı olacak."
-                    }
+                    "description": ""
                 }
             ]
         },
@@ -354,17 +280,13 @@
             "name": "Venüs Belgeseli",
             "category": "",
             "image": "venus/index.jpeg",
-            "description": {
-                "tr": "Güneş sisteminin en sıcak gezegeni"
-            },
+            "description": "Güneş sisteminin en sıcak gezegeni. Kalın atmosferi ve yoğun sera etkisiyle dikkat çeken, Dünya'nın ikizi olarak bilinen gezegen.",
             "child": [
                 {
                     "name": "Atmosfer",
                     "path": "venus/atmosfer.mp3",
                     "image": "venus/index.jpeg",
-                    "description": {
-                        "tr": "Venüs gezegeninin yoğun atmosferinden gelen plazma dalgaları"
-                    }
+                    "description": "Venüs gezegeninin yoğun atmosferinden gelen plazma dalgaları"
                 }
             ]
         },
@@ -372,17 +294,67 @@
             "name": "Dünya Belgeseli",
             "category": "",
             "image": "dunya/index.jpeg",
-            "description": {
-                "tr": "Üzerinde yaşam barındıran tek gezegen"
-            },
+            "description": "Bilinen tek yaşam gezegeni. Okyanus ve kıtalarıyla, dinamik atmosferi ve manyetik alanıyla benzersiz bir dünya.",
             "child": [
                 {
-                    "name": "Manyetosfer",
-                    "path": "dunya/manyetosfer.mp3",
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "dunya/bolum1.mp3",
                     "image": "dunya/index.jpeg",
-                    "description": {
-                        "tr": "Dünya'nın manyetik kalkanından gelen auroral chorus dalgaları"
-                    }
+                    "description": "Güneş sisteminin üçüncü gezegeni ve bilinen tek yaşam dünyası. Okyanusları, atmosferi ve manyetik alanıyla yaşam için ideal koşullar sunar."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer ve İklim",
+                    "path": "dunya/bolum2.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Beş ana katmandan oluşan atmosfer, yaşam için gerekli gazları barındırır. Ozon tabakası korur, sera gazları sıcaklığı dengeler."
+                },
+                {
+                    "name": "Bölüm 3: Okyanuslar",
+                    "path": "dunya/bolum3.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Yüzeyin %71'ini kaplayan okyanuslar, iklimi düzenler ve yaşama ev sahipliği yapar. Derin vadiler ve sıradağlar barındırır."
+                },
+                {
+                    "name": "Bölüm 4: Kıtalar",
+                    "path": "dunya/bolum4.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Levha tektoniğiyle sürekli hareket eden yedi kıta. Dağlar, vadiler ve volkanlarla şekillenen dinamik bir yüzey yapısı."
+                },
+                {
+                    "name": "Bölüm 5: Manyetik Alan",
+                    "path": "dunya/bolum5.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Sıvı dış çekirdekten kaynaklanan güçlü manyetik alan, zararlı güneş ışınlarından korur ve kutup ışıklarını oluşturur."
+                },
+                {
+                    "name": "Bölüm 6: İç Yapı",
+                    "path": "dunya/bolum6.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Kabuk, manto ve çekirdekten oluşan katmanlı yapı. Dinamik iç süreçler, yüzey şekillerini ve tektonik hareketleri belirler."
+                },
+                {
+                    "name": "Bölüm 7: Ay ve Gelgitler",
+                    "path": "dunya/bolum7.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Ay'ın çekim etkisi okyanuslarda gelgitleri oluşturur. Dünya-Ay sistemi, gezegenin eksen eğikliğini ve dönüşünü dengeler."
+                },
+                {
+                    "name": "Bölüm 8: İklim Sistemi",
+                    "path": "dunya/bolum8.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Atmosfer, okyanuslar ve karalar arasındaki etkileşimlerle şekillenen karmaşık iklim sistemi. Yerel ve küresel hava olayları."
+                },
+                {
+                    "name": "Bölüm 9: Biyosfer",
+                    "path": "dunya/bolum9.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Milyonlarca türe ev sahipliği yapan yaşam katmanı. 4 milyar yıllık evrim sürecinin sonucu olan zengin biyolojik çeşitlilik."
+                },
+                {
+                    "name": "Bölüm 10: Yörünge ve Mevsimler",
+                    "path": "dunya/bolum10.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Güneş etrafındaki yörünge hareketi ve eksen eğikliği mevsimleri oluşturur. 24 saatlik gün-gece döngüsü yaşamı şekillendirir."
                 }
             ]
         },
@@ -390,17 +362,13 @@
             "name": "Mars Belgeseli",
             "category": "",
             "image": "mars/index.jpeg",
-            "description": {
-                "tr": "Kızıl gezegen olarak da bilinen dördüncü gezegen"
-            },
+            "description": "Kızıl Gezegen olarak bilinen dördüncü gezegen. Antik nehir yatakları, dev volkanlar ve kutup buzullarıyla gelecekte yaşam potansiyeli taşıyor.",
             "child": [
                 {
                     "name": "Ruzgarlar",
                     "path": "mars/ruzgar.mp3",
                     "image": "mars/index.jpeg",
-                    "description": {
-                        "tr": "NASA'nın InSight uzay aracı tarafından kaydedilen Mars yüzeyindeki rüzgar sesleri"
-                    }
+                    "description": "NASA'nın InSight uzay aracı tarafından kaydedilen Mars yüzeyindeki rüzgar sesleri"
                 }
             ]
         },
@@ -408,17 +376,13 @@
             "name": "Jüpiter Belgeseli",
             "category": "",
             "image": "jupiter/index.jpeg",
-            "description": {
-                "tr": "Güneş sisteminin en büyük gezegeni"
-            },
+            "description": "Güneş sisteminin en büyük gezegeni. Büyük Kırmızı Leke ve renkli bantlarıyla tanınan, güçlü manyetik alana sahip gaz devi.",
             "child": [
                 {
                     "name": "Radyo Sinyalleri",
                     "path": "jupiter/radyo.mp3",
                     "image": "jupiter/index.jpeg",
-                    "description": {
-                        "tr": "Jüpiter'in radyo emisyonları ve Io plazma torusu sesleri"
-                    }
+                    "description": "Jüpiter'in radyo emisyonları ve Io plazma torusu sesleri"
                 }
             ]
         },
@@ -426,17 +390,13 @@
             "name": "Satürn Belgeseli",
             "category": "",
             "image": "saturn/index.jpeg",
-            "description": {
-                "tr": "Halkaları ile ünlü altıncı gezegen"
-            },
+            "description": "Göz alıcı halka sistemiyle ünlü altıncı gezegen. Titan gibi büyük uyduları ve karmaşık atmosfer yapısıyla dikkat çeken gaz devi.",
             "child": [
                 {
                     "name": "Halka Sesleri",
                     "path": "saturn/halka.mp3",
                     "image": "saturn/index.jpeg",
-                    "description": {
-                        "tr": "Cassini uzay aracı tarafından kaydedilen Satürn'ün plazma dalgaları"
-                    }
+                    "description": "Cassini uzay aracı tarafından kaydedilen Satürn'ün plazma dalgaları"
                 }
             ]
         },
@@ -444,17 +404,13 @@
             "name": "Uranüs Belgeseli",
             "category": "",
             "image": "uranus/index.jpeg",
-            "description": {
-                "tr": "Yan yatık halde dönen buz devi gezegen"
-            },
+            "description": "Yan yatık eksen eğikliğiyle dikkat çeken yedinci gezegen. Mavi-yeşil rengi ve soğuk atmosferiyle tanınan buz devi.",
             "child": [
                 {
                     "name": "Aurora",
                     "path": "uranus/aurora.mp3",
                     "image": "uranus/index.jpeg",
-                    "description": {
-                        "tr": "Uranüs'ün kutup ışıklarından yayılan elektromanyetik dalgalar"
-                    }
+                    "description": "Uranüs'ün kutup ışıklarından yayılan elektromanyetik dalgalar"
                 }
             ]
         },
@@ -462,17 +418,13 @@
             "name": "Neptün Belgeseli",
             "category": "",
             "image": "neptun/index.jpeg",
-            "description": {
-                "tr": "Güneş sisteminin en uzak gezegeni"
-            },
+            "description": "Güneş sisteminin en uzak gezegeni. Güçlü rüzgarları ve dinamik atmosferiyle tanınan, derin mavi renkli buz devi.",
             "child": [
                 {
                     "name": "Ruzgarlar",
                     "path": "neptun/ruzgar.mp3",
                     "image": "neptun/index.jpeg",
-                    "description": {
-                        "tr": "Voyager 2'nin kaydettiği Neptün'ün süpersonik rüzgarlarının sesi"
-                    }
+                    "description": "Voyager 2'nin kaydettiği Neptün'ün süpersonik rüzgarlarının sesi"
                 }
             ]
         }
