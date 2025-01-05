@@ -433,25 +433,19 @@
         {
             "name": "Keşfet 1",
             "image": "kesfet.jpg",
-            "spot": {
-                "tr": "spot yazısı 160 karakter"
-            },
+            "description": "spot yazısı 160 karakter",
             "child": []
         },
         {
             "name": "Keşfet 2",
             "image": "kesfet.jpg",
-            "spot": {
-                "tr": "spot yazısı 160 karakter"
-            },
+            "description": "spot yazısı 160 karakter",
             "child": []
         },
         {
             "name": "Keşfet 3",
             "image": "kesfet.jpg",
-            "spot": {
-                "tr": "spot yazısı 160 karakter"
-            }
+            "description": "spot yazısı 160 karakter"
         }
     ]
 }
