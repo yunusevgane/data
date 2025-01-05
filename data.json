@@ -204,25 +204,13 @@
             "child": [
                 {
                     "name": "Bölüm 1: Genel Bakış",
-                    "path": "merkur/bolum1-1.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 1: Genel Bakış (Devam)",
-                    "path": "merkur/bolum1-2.mp3",
+                    "path": "merkur/bolum1.mp3",
                     "image": "merkur/index.jpeg",
                     "description": ""
                 },
                 {
                     "name": "Bölüm 2: Yüzey Yapısı",
-                    "path": "merkur/bolum2-1.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 2: Yüzey Yapısı (Devam)",
-                    "path": "merkur/bolum2-2.mp3",
+                    "path": "merkur/bolum2.mp3",
                     "image": "merkur/index.jpeg",
                     "description": ""
                 },
