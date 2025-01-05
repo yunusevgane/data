@@ -271,10 +271,64 @@
             "description": "Güneş sisteminin en sıcak gezegeni. Kalın atmosferi ve yoğun sera etkisiyle dikkat çeken, Dünya'nın ikizi olarak bilinen gezegen.",
             "child": [
                 {
-                    "name": "Atmosfer",
-                    "path": "venus/atmosfer.mp3",
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "venus/bolum1.mp3",
                     "image": "venus/index.jpeg",
-                    "description": "Venüs gezegeninin yoğun atmosferinden gelen plazma dalgaları"
+                    "description":  ""
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer ve İklim",
+                    "path": "venus/bolum2.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 3: Yüzey Özellikleri",
+                    "path": "venus/bolum3.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 4: İç Yapı",
+                    "path": "venus/bolum4.mp3",
+                    "image": "venus/index.jpeg",
+                    "description":  ""
+                },
+                {
+                    "name": "Bölüm 5: Volkanik Aktivite",
+                    "path": "venus/bolum5.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "venus/bolum6.mp3",
+                    "image": "venus/index.jpeg",
+                    "description":  ""
+                },
+                {
+                    "name": "Bölüm 7: Atmosferik Dinamikler",
+                    "path": "venus/bolum7.mp3",
+                    "image": "venus/index.jpeg",
+                    "description":""
+                },
+                {
+                    "name": "Bölüm 8: Dünya ile Karşılaştırma",
+                    "path": "venus/bolum8.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 9: Bilimsel Önemi",
+                    "path": "venus/bolum9.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Araştırmalar",
+                    "path": "venus/bolum10.mp3",
+                    "image": "venus/index.jpeg",
+                    "description": ""
                 }
             ]
         },
