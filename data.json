@@ -1,6 +1,280 @@
 {
-    "category": [
+    "category": [{
+        "name": "Venüs Belgeseli",
+        "category": "",
+        "image": "venus/index.jpeg",
+        "description": "Güneş sisteminin en sıcak gezegeni. Kalın atmosferi ve yoğun sera etkisiyle dikkat çeken, Dünya'nın ikizi olarak bilinen gezegen.",
+        "child": [
+            {
+                "name": "Bölüm 1: Genel Bakış",
+                "path": "venus/bolum1.mp3",
+                "image": "venus/index.jpeg",
+                "description":  ""
+            },
+            {
+                "name": "Bölüm 2: Atmosfer ve İklim",
+                "path": "venus/bolum2.mp3",
+                "image": "venus/index.jpeg",
+                "description": ""
+            },
+            {
+                "name": "Bölüm 3: Yüzey Özellikleri",
+                "path": "venus/bolum3.mp3",
+                "image": "venus/index.jpeg",
+                "description": ""
+            },
+            {
+                "name": "Bölüm 4: İç Yapı",
+                "path": "venus/bolum4.mp3",
+                "image": "venus/index.jpeg",
+                "description":  ""
+            },
+            {
+                "name": "Bölüm 5: Volkanik Aktivite",
+                "path": "venus/bolum5.mp3",
+                "image": "venus/index.jpeg",
+                "description": ""
+            },
+            {
+                "name": "Bölüm 6: Keşif Tarihi",
+                "path": "venus/bolum6.mp3",
+                "image": "venus/index.jpeg",
+                "description":  ""
+            },
+            {
+                "name": "Bölüm 7: Atmosferik Dinamikler",
+                "path": "venus/bolum7.mp3",
+                "image": "venus/index.jpeg",
+                "description":""
+            },
+            {
+                "name": "Bölüm 8: Dünya ile Karşılaştırma",
+                "path": "venus/bolum8.mp3",
+                "image": "venus/index.jpeg",
+                "description": ""
+            },
+            {
+                "name": "Bölüm 9: Bilimsel Önemi",
+                "path": "venus/bolum9.mp3",
+                "image": "venus/index.jpeg",
+                "description": ""
+            },
+            {
+                "name": "Bölüm 10: Gelecek Araştırmalar",
+                "path": "venus/bolum10.mp3",
+                "image": "venus/index.jpeg",
+                "description": ""
+            }
+        ]
+    },
+        
         {
+            "name": "Merkür Belgeseli",
+            "category": "",
+            "image": "merkur/index.jpeg",
+            "description": "Güneş'e en yakın ve en küçük gezegen. Yüzeyi kraterlerle kaplı, sıcaklık farkları çok yüksek, manyetik alana sahip gizemli bir dünya.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "merkur/bolum1.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 2: Yüzey Yapısı",
+                    "path": "merkur/bolum2.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 3: Atmosfer ve İklim",
+                    "path": "merkur/bolum3.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 4: Manyetik Alan",
+                    "path": "merkur/bolum4.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 5: İç Yapı",
+                    "path": "merkur/bolum5.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 6: Keşif Tarihi",
+                    "path": "merkur/bolum6.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 7: Yörünge Özellikleri",
+                    "path": "merkur/bolum7.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 8: Kutup Bölgeleri",
+                    "path": "merkur/bolum8.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 9: Güneş Etkileşimi",
+                    "path": "merkur/bolum9.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                },
+                {
+                    "name": "Bölüm 10: Gelecek Keşifler",
+                    "path": "merkur/bolum10.mp3",
+                    "image": "merkur/index.jpeg",
+                    "description": ""
+                }
+            ]
+        },
+        
+        {
+            "name": "Dünya Belgeseli",
+            "category": "",
+            "image": "dunya/index.jpeg",
+            "description": "Bilinen tek yaşam gezegeni. Okyanus ve kıtalarıyla, dinamik atmosferi ve manyetik alanıyla benzersiz bir dünya.",
+            "child": [
+                {
+                    "name": "Bölüm 1: Genel Bakış",
+                    "path": "dunya/bolum1.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Güneş sisteminin üçüncü gezegeni ve bilinen tek yaşam dünyası. Okyanusları, atmosferi ve manyetik alanıyla yaşam için ideal koşullar sunar."
+                },
+                {
+                    "name": "Bölüm 2: Atmosfer ve İklim",
+                    "path": "dunya/bolum2.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Beş ana katmandan oluşan atmosfer, yaşam için gerekli gazları barındırır. Ozon tabakası korur, sera gazları sıcaklığı dengeler."
+                },
+                {
+                    "name": "Bölüm 3: Okyanuslar",
+                    "path": "dunya/bolum3.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Yüzeyin %71'ini kaplayan okyanuslar, iklimi düzenler ve yaşama ev sahipliği yapar. Derin vadiler ve sıradağlar barındırır."
+                },
+                {
+                    "name": "Bölüm 4: Kıtalar",
+                    "path": "dunya/bolum4.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Levha tektoniğiyle sürekli hareket eden yedi kıta. Dağlar, vadiler ve volkanlarla şekillenen dinamik bir yüzey yapısı."
+                },
+                {
+                    "name": "Bölüm 5: Manyetik Alan",
+                    "path": "dunya/bolum5.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Sıvı dış çekirdekten kaynaklanan güçlü manyetik alan, zararlı güneş ışınlarından korur ve kutup ışıklarını oluşturur."
+                },
+                {
+                    "name": "Bölüm 6: İç Yapı",
+                    "path": "dunya/bolum6.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Kabuk, manto ve çekirdekten oluşan katmanlı yapı. Dinamik iç süreçler, yüzey şekillerini ve tektonik hareketleri belirler."
+                },
+                {
+                    "name": "Bölüm 7: Ay ve Gelgitler",
+                    "path": "dunya/bolum7.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Ay'ın çekim etkisi okyanuslarda gelgitleri oluşturur. Dünya-Ay sistemi, gezegenin eksen eğikliğini ve dönüşünü dengeler."
+                },
+                {
+                    "name": "Bölüm 8: İklim Sistemi",
+                    "path": "dunya/bolum8.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Atmosfer, okyanuslar ve karalar arasındaki etkileşimlerle şekillenen karmaşık iklim sistemi. Yerel ve küresel hava olayları."
+                },
+                {
+                    "name": "Bölüm 9: Biyosfer",
+                    "path": "dunya/bolum9.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Milyonlarca türe ev sahipliği yapan yaşam katmanı. 4 milyar yıllık evrim sürecinin sonucu olan zengin biyolojik çeşitlilik."
+                },
+                {
+                    "name": "Bölüm 10: Yörünge ve Mevsimler",
+                    "path": "dunya/bolum10.mp3",
+                    "image": "dunya/index.jpeg",
+                    "description": "Güneş etrafındaki yörünge hareketi ve eksen eğikliği mevsimleri oluşturur. 24 saatlik gün-gece döngüsü yaşamı şekillendirir."
+                }
+            ]
+        },
+        {
+            "name": "Mars Belgeseli",
+            "category": "",
+            "image": "mars/index.jpeg",
+            "description": "Kızıl Gezegen olarak bilinen dördüncü gezegen. Antik nehir yatakları, dev volkanlar ve kutup buzullarıyla gelecekte yaşam potansiyeli taşıyor.",
+            "child": [
+                {
+                    "name": "Ruzgarlar",
+                    "path": "mars/ruzgar.mp3",
+                    "image": "mars/index.jpeg",
+                    "description": "NASA'nın InSight uzay aracı tarafından kaydedilen Mars yüzeyindeki rüzgar sesleri"
+                }
+            ]
+        },
+        {
+            "name": "Jüpiter Belgeseli",
+            "category": "",
+            "image": "jupiter/index.jpeg",
+            "description": "Güneş sisteminin en büyük gezegeni. Büyük Kırmızı Leke ve renkli bantlarıyla tanınan, güçlü manyetik alana sahip gaz devi.",
+            "child": [
+                {
+                    "name": "Radyo Sinyalleri",
+                    "path": "jupiter/radyo.mp3",
+                    "image": "jupiter/index.jpeg",
+                    "description": "Jüpiter'in radyo emisyonları ve Io plazma torusu sesleri"
+                }
+            ]
+        },
+        {
+            "name": "Satürn Belgeseli",
+            "category": "",
+            "image": "saturn/index.jpeg",
+            "description": "Göz alıcı halka sistemiyle ünlü altıncı gezegen. Titan gibi büyük uyduları ve karmaşık atmosfer yapısıyla dikkat çeken gaz devi.",
+            "child": [
+                {
+                    "name": "Halka Sesleri",
+                    "path": "saturn/halka.mp3",
+                    "image": "saturn/index.jpeg",
+                    "description": "Cassini uzay aracı tarafından kaydedilen Satürn'ün plazma dalgaları"
+                }
+            ]
+        },
+        {
+            "name": "Uranüs Belgeseli",
+            "category": "",
+            "image": "uranus/index.jpeg",
+            "description": "Yan yatık eksen eğikliğiyle dikkat çeken yedinci gezegen. Mavi-yeşil rengi ve soğuk atmosferiyle tanınan buz devi.",
+            "child": [
+                {
+                    "name": "Aurora",
+                    "path": "uranus/aurora.mp3",
+                    "image": "uranus/index.jpeg",
+                    "description": "Uranüs'ün kutup ışıklarından yayılan elektromanyetik dalgalar"
+                }
+            ]
+        },
+        {
+            "name": "Neptün Belgeseli",
+            "category": "",
+            "image": "neptun/index.jpeg",
+            "description": "Güneş sisteminin en uzak gezegeni. Güçlü rüzgarları ve dinamik atmosferiyle tanınan, derin mavi renkli buz devi.",
+            "child": [
+                {
+                    "name": "Ruzgarlar",
+                    "path": "neptun/ruzgar.mp3",
+                    "image": "neptun/index.jpeg",
+                    "description": "Voyager 2'nin kaydettiği Neptün'ün süpersonik rüzgarlarının sesi"
+                }
+            ]
+        },{
             "name": "Doğa",
             "category": "",
             "image": "doga/index.png",
@@ -193,280 +467,6 @@
                     "path": "ninni/Mircan-Kaya-Uzun-Kesintisiz-Ninni.mp3",
                     "image": "ninni/index.jpg",
                     "description": "Mircan Kaya - Uzun Kesintisiz Ninni"
-                }
-            ]
-        },
-        {
-            "name": "Merkür Belgeseli",
-            "category": "",
-            "image": "merkur/index.jpeg",
-            "description": "Güneş'e en yakın ve en küçük gezegen. Yüzeyi kraterlerle kaplı, sıcaklık farkları çok yüksek, manyetik alana sahip gizemli bir dünya.",
-            "child": [
-                {
-                    "name": "Bölüm 1: Genel Bakış",
-                    "path": "merkur/bolum1.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 2: Yüzey Yapısı",
-                    "path": "merkur/bolum2.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 3: Atmosfer ve İklim",
-                    "path": "merkur/bolum3.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 4: Manyetik Alan",
-                    "path": "merkur/bolum4.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 5: İç Yapı",
-                    "path": "merkur/bolum5.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 6: Keşif Tarihi",
-                    "path": "merkur/bolum6.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 7: Yörünge Özellikleri",
-                    "path": "merkur/bolum7.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 8: Kutup Bölgeleri",
-                    "path": "merkur/bolum8.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 9: Güneş Etkileşimi",
-                    "path": "merkur/bolum9.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 10: Gelecek Keşifler",
-                    "path": "merkur/bolum10.mp3",
-                    "image": "merkur/index.jpeg",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "name": "Venüs Belgeseli",
-            "category": "",
-            "image": "venus/index.jpeg",
-            "description": "Güneş sisteminin en sıcak gezegeni. Kalın atmosferi ve yoğun sera etkisiyle dikkat çeken, Dünya'nın ikizi olarak bilinen gezegen.",
-            "child": [
-                {
-                    "name": "Bölüm 1: Genel Bakış",
-                    "path": "venus/bolum1.mp3",
-                    "image": "venus/index.jpeg",
-                    "description":  ""
-                },
-                {
-                    "name": "Bölüm 2: Atmosfer ve İklim",
-                    "path": "venus/bolum2.mp3",
-                    "image": "venus/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 3: Yüzey Özellikleri",
-                    "path": "venus/bolum3.mp3",
-                    "image": "venus/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 4: İç Yapı",
-                    "path": "venus/bolum4.mp3",
-                    "image": "venus/index.jpeg",
-                    "description":  ""
-                },
-                {
-                    "name": "Bölüm 5: Volkanik Aktivite",
-                    "path": "venus/bolum5.mp3",
-                    "image": "venus/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 6: Keşif Tarihi",
-                    "path": "venus/bolum6.mp3",
-                    "image": "venus/index.jpeg",
-                    "description":  ""
-                },
-                {
-                    "name": "Bölüm 7: Atmosferik Dinamikler",
-                    "path": "venus/bolum7.mp3",
-                    "image": "venus/index.jpeg",
-                    "description":""
-                },
-                {
-                    "name": "Bölüm 8: Dünya ile Karşılaştırma",
-                    "path": "venus/bolum8.mp3",
-                    "image": "venus/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 9: Bilimsel Önemi",
-                    "path": "venus/bolum9.mp3",
-                    "image": "venus/index.jpeg",
-                    "description": ""
-                },
-                {
-                    "name": "Bölüm 10: Gelecek Araştırmalar",
-                    "path": "venus/bolum10.mp3",
-                    "image": "venus/index.jpeg",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "name": "Dünya Belgeseli",
-            "category": "",
-            "image": "dunya/index.jpeg",
-            "description": "Bilinen tek yaşam gezegeni. Okyanus ve kıtalarıyla, dinamik atmosferi ve manyetik alanıyla benzersiz bir dünya.",
-            "child": [
-                {
-                    "name": "Bölüm 1: Genel Bakış",
-                    "path": "dunya/bolum1.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Güneş sisteminin üçüncü gezegeni ve bilinen tek yaşam dünyası. Okyanusları, atmosferi ve manyetik alanıyla yaşam için ideal koşullar sunar."
-                },
-                {
-                    "name": "Bölüm 2: Atmosfer ve İklim",
-                    "path": "dunya/bolum2.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Beş ana katmandan oluşan atmosfer, yaşam için gerekli gazları barındırır. Ozon tabakası korur, sera gazları sıcaklığı dengeler."
-                },
-                {
-                    "name": "Bölüm 3: Okyanuslar",
-                    "path": "dunya/bolum3.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Yüzeyin %71'ini kaplayan okyanuslar, iklimi düzenler ve yaşama ev sahipliği yapar. Derin vadiler ve sıradağlar barındırır."
-                },
-                {
-                    "name": "Bölüm 4: Kıtalar",
-                    "path": "dunya/bolum4.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Levha tektoniğiyle sürekli hareket eden yedi kıta. Dağlar, vadiler ve volkanlarla şekillenen dinamik bir yüzey yapısı."
-                },
-                {
-                    "name": "Bölüm 5: Manyetik Alan",
-                    "path": "dunya/bolum5.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Sıvı dış çekirdekten kaynaklanan güçlü manyetik alan, zararlı güneş ışınlarından korur ve kutup ışıklarını oluşturur."
-                },
-                {
-                    "name": "Bölüm 6: İç Yapı",
-                    "path": "dunya/bolum6.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Kabuk, manto ve çekirdekten oluşan katmanlı yapı. Dinamik iç süreçler, yüzey şekillerini ve tektonik hareketleri belirler."
-                },
-                {
-                    "name": "Bölüm 7: Ay ve Gelgitler",
-                    "path": "dunya/bolum7.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Ay'ın çekim etkisi okyanuslarda gelgitleri oluşturur. Dünya-Ay sistemi, gezegenin eksen eğikliğini ve dönüşünü dengeler."
-                },
-                {
-                    "name": "Bölüm 8: İklim Sistemi",
-                    "path": "dunya/bolum8.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Atmosfer, okyanuslar ve karalar arasındaki etkileşimlerle şekillenen karmaşık iklim sistemi. Yerel ve küresel hava olayları."
-                },
-                {
-                    "name": "Bölüm 9: Biyosfer",
-                    "path": "dunya/bolum9.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Milyonlarca türe ev sahipliği yapan yaşam katmanı. 4 milyar yıllık evrim sürecinin sonucu olan zengin biyolojik çeşitlilik."
-                },
-                {
-                    "name": "Bölüm 10: Yörünge ve Mevsimler",
-                    "path": "dunya/bolum10.mp3",
-                    "image": "dunya/index.jpeg",
-                    "description": "Güneş etrafındaki yörünge hareketi ve eksen eğikliği mevsimleri oluşturur. 24 saatlik gün-gece döngüsü yaşamı şekillendirir."
-                }
-            ]
-        },
-        {
-            "name": "Mars Belgeseli",
-            "category": "",
-            "image": "mars/index.jpeg",
-            "description": "Kızıl Gezegen olarak bilinen dördüncü gezegen. Antik nehir yatakları, dev volkanlar ve kutup buzullarıyla gelecekte yaşam potansiyeli taşıyor.",
-            "child": [
-                {
-                    "name": "Ruzgarlar",
-                    "path": "mars/ruzgar.mp3",
-                    "image": "mars/index.jpeg",
-                    "description": "NASA'nın InSight uzay aracı tarafından kaydedilen Mars yüzeyindeki rüzgar sesleri"
-                }
-            ]
-        },
-        {
-            "name": "Jüpiter Belgeseli",
-            "category": "",
-            "image": "jupiter/index.jpeg",
-            "description": "Güneş sisteminin en büyük gezegeni. Büyük Kırmızı Leke ve renkli bantlarıyla tanınan, güçlü manyetik alana sahip gaz devi.",
-            "child": [
-                {
-                    "name": "Radyo Sinyalleri",
-                    "path": "jupiter/radyo.mp3",
-                    "image": "jupiter/index.jpeg",
-                    "description": "Jüpiter'in radyo emisyonları ve Io plazma torusu sesleri"
-                }
-            ]
-        },
-        {
-            "name": "Satürn Belgeseli",
-            "category": "",
-            "image": "saturn/index.jpeg",
-            "description": "Göz alıcı halka sistemiyle ünlü altıncı gezegen. Titan gibi büyük uyduları ve karmaşık atmosfer yapısıyla dikkat çeken gaz devi.",
-            "child": [
-                {
-                    "name": "Halka Sesleri",
-                    "path": "saturn/halka.mp3",
-                    "image": "saturn/index.jpeg",
-                    "description": "Cassini uzay aracı tarafından kaydedilen Satürn'ün plazma dalgaları"
-                }
-            ]
-        },
-        {
-            "name": "Uranüs Belgeseli",
-            "category": "",
-            "image": "uranus/index.jpeg",
-            "description": "Yan yatık eksen eğikliğiyle dikkat çeken yedinci gezegen. Mavi-yeşil rengi ve soğuk atmosferiyle tanınan buz devi.",
-            "child": [
-                {
-                    "name": "Aurora",
-                    "path": "uranus/aurora.mp3",
-                    "image": "uranus/index.jpeg",
-                    "description": "Uranüs'ün kutup ışıklarından yayılan elektromanyetik dalgalar"
-                }
-            ]
-        },
-        {
-            "name": "Neptün Belgeseli",
-            "category": "",
-            "image": "neptun/index.jpeg",
-            "description": "Güneş sisteminin en uzak gezegeni. Güçlü rüzgarları ve dinamik atmosferiyle tanınan, derin mavi renkli buz devi.",
-            "child": [
-                {
-                    "name": "Ruzgarlar",
-                    "path": "neptun/ruzgar.mp3",
-                    "image": "neptun/index.jpeg",
-                    "description": "Voyager 2'nin kaydettiği Neptün'ün süpersonik rüzgarlarının sesi"
                 }
             ]
         }
