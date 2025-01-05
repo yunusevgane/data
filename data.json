@@ -473,20 +473,20 @@
     ],
     "explore": [
         {
-            "name": "Keşfet 1",
-            "image": "kesfet.jpg",
+            "name": "Mars Belgeseli",
+            "image": "mars/index.jpeg",
             "description": "spot yazısı 160 karakter",
             "child": []
         },
         {
-            "name": "Keşfet 2",
-            "image": "kesfet.jpg",
+            "name": "Neptün Belgeseli",
+            "image": "neptun/index.jpeg",
             "description": "spot yazısı 160 karakter",
             "child": []
         },
         {
-            "name": "Keşfet 3",
-            "image": "kesfet.jpg",
+            "name": "Venüs Belgeseli",
+            "image": "venus/index.jpeg",
             "description": "spot yazısı 160 karakter"
         }
     ]
