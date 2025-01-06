@@ -475,19 +475,19 @@
         {
             "name": "Mars Belgeseli",
             "image": "mars/index.jpeg",
-            "description": "spot yazısı 160 karakter",
+            "description": "Kızıl Gezegen olarak bilinen dördüncü gezegen. Antik nehir yatakları, dev volkanlar ve kutup buzullarıyla gelecekte yaşam potansiyeli taşıyor.",
             "child": []
         },
         {
             "name": "Neptün Belgeseli",
             "image": "neptun/index.jpeg",
-            "description": "spot yazısı 160 karakter",
+            "description": "Güneş sisteminin en uzak gezegeni. Güçlü rüzgarları ve dinamik atmosferiyle tanınan, derin mavi renkli buz devi.",
             "child": []
         },
         {
             "name": "Venüs Belgeseli",
             "image": "venus/index.jpeg",
-            "description": "spot yazısı 160 karakter"
+            "description": "Güneş sisteminin en sıcak gezegeni. Kalın atmosferi ve yoğun sera etkisiyle dikkat çeken, Dünya'nın ikizi olarak bilinen gezegen."
         }
     ]
 }
