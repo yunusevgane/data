@@ -19,6 +19,28 @@
                 "Dünya'nın biyosferi, milyonlarca türe ev sahipliği yapar. Bu çeşitlilik, dört milyar yılı aşkın evrim sürecinin sonucudur.",
                 "Gezegenimizin yörüngesi ve dönüş hızı, yaşam için ideal koşullar sağlar. Bu özellikler, gece-gündüz döngüsünü ve mevsimleri oluşturur.",
                 "Dünya, güneş sisteminde bildiğimiz en benzersiz gezegendir. Sıvı su, karmaşık atmosfer ve aktif jeolojisi ile yaşamın gelişmesi için mükemmel bir ortam sunar."
+            ],
+            "prompt": [
+                "A majestic view of Earth from space, showcasing its distinctive blue color with swirling white clouds, oceans covering 71% of its surface, creating a breathtaking marble-like appearance",
+                "A dynamic 3D visualization of Earth rotating in space, highlighting its unique position as the third planet from the Sun, with visible continents and oceans",
+                "A detailed cross-section animation of Earth's atmosphere, showing the perfect mixture of nitrogen, oxygen, and other gases essential for life",
+                "A realistic visualization of Earth's atmospheric layers with labels, demonstrating the delicate balance of gases that make life possible",
+                "A cinematic visualization of the Moon's influence on Earth, showing tidal forces and the Moon's role in maintaining Earth's stable axial tilt",
+                "An artistic representation of the Moon orbiting Earth, demonstrating its effects on natural cycles and seasonal changes",
+                "A dramatic visualization of Earth's magnetic field, showing the protective shield deflecting harmful solar radiation",
+                "An animation of aurora borealis dancing in the upper atmosphere, illustrating the interaction between solar wind and Earth's magnetic field",
+                "A detailed animation of Earth's internal structure, showing the dynamic movement of tectonic plates",
+                "A realistic visualization of mountain formation and oceanic trenches caused by plate tectonics",
+                "A comprehensive visualization of Earth's climate system, showing the interaction between oceans, atmosphere, and land",
+                "An animation demonstrating global weather patterns and the complex relationships between different climate components",
+                "A vibrant visualization of Earth's biosphere, showcasing the incredible diversity of life forms across different ecosystems",
+                "A detailed animation transitioning through various biomes, highlighting the millions of species that have evolved over 4 billion years",
+                "A scientific visualization of Earth's orbital mechanics, showing its perfect position in the habitable zone",
+                "An animation demonstrating how Earth's rotation creates day and night cycles, and its orbital tilt creates seasons",
+                "A photorealistic rendering of Earth's unique features: liquid water, complex atmosphere, and active geology",
+                "A comparative visualization showing Earth's special characteristics among other planets in the solar system",
+                "A serene view of Earth's perfect conditions for life, showcasing the harmony of its various systems",
+                "An inspiring visualization of Earth as a living planet, highlighting its role as a cradle for life in the known universe"
             ]
         },
         {
@@ -36,6 +58,28 @@
                 "Atmosferdeki su döngüsü, yaşamın temel süreçlerinden biridir. Buharlaşma, yoğunlaşma ve yağış, suyun gezegen üzerindeki dolaşımını sağlar.",
                 "Bulutlar, gezegenin enerji dengesinde önemli rol oynar. Hem güneş ışığını yansıtarak hem de ısıyı tutarak iklimi etkilerler.",
                 "İklim değişikliği, atmosferin doğal dengesini tehdit ediyor. İnsan faaliyetleri sonucu artan sera gazları, küresel sıcaklıkların yükselmesine neden oluyor."
+            ],
+            "prompt": [
+                "A detailed cross-section animation of Earth's five atmospheric layers, showing their unique characteristics and functions",
+                "A scientific visualization of the atmosphere's structure, with each layer labeled and its properties highlighted",
+                "A dynamic visualization of the troposphere, showing weather patterns and essential gases for life",
+                "An animation of cloud formation and precipitation cycles within the lowest atmospheric layer",
+                "A detailed visualization of the ozone layer filtering harmful UV radiation",
+                "An animation showing how the ozone shield protects life on Earth's surface",
+                "A comprehensive visualization of greenhouse gases and their role in temperature regulation",
+                "An animation demonstrating how greenhouse gases trap heat and maintain Earth's habitable temperature",
+                "A dynamic representation of global climate systems, showing ocean currents and atmospheric circulation",
+                "An animation of heat transfer from equator to poles through ocean and atmospheric movements",
+                "A detailed visualization of jet streams and their influence on weather patterns",
+                "An animation showing how jet streams guide weather systems across the globe",
+                "A scientific visualization of El Niño and La Niña patterns in the Pacific Ocean",
+                "An animation demonstrating the global impacts of El Niño and La Niña events",
+                "A detailed representation of the water cycle in Earth's atmosphere",
+                "An animation showing the processes of evaporation, condensation, and precipitation",
+                "A dynamic visualization of cloud types and their role in Earth's energy balance",
+                "An animation showing how clouds reflect sunlight and trap heat",
+                "A comprehensive visualization of climate change impacts on atmospheric systems",
+                "An animation demonstrating the effects of increasing greenhouse gases on global temperatures"
             ]
         },
         {
@@ -53,6 +97,28 @@
                 "Su döngüsü, okyanuslar ve atmosfer arasında sürekli bir alışveriş sağlar. Bu döngü, gezegenin iklimini ve yaşam sistemlerini düzenler.",
                 "Kıta sahanlıkları, deniz yaşamının en üretken bölgeleridir. Sığ sular, güneş ışığının ulaşabildiği derinliklerde zengin ekosistemler barındırır.",
                 "Okyanuslar, gezegenin iklim sisteminin önemli bir parçasıdır. Karbondioksitin emilmesi ve ısının depolanması gibi kritik işlevler görür."
+            ],
+            "prompt": [
+                "A sweeping visualization of Earth's vast oceans, showing their role as the planet's largest ecosystem",
+                "An animation transitioning through different marine environments, from surface to deep ocean",
+                "A dynamic visualization of global ocean currents, showing the conveyor belt system",
+                "An animation demonstrating how ocean currents transport heat and nutrients worldwide",
+                "A detailed exploration of deep ocean trenches, revealing mysterious life forms",
+                "An animation showing the unique adaptations of deep-sea creatures in extreme environments",
+                "A vibrant visualization of coral reef ecosystems, showcasing their biodiversity",
+                "An animation demonstrating the complex relationships within coral reef communities",
+                "A scientific visualization of ocean acidification and its effects on marine life",
+                "An animation showing how increased CO2 levels change ocean chemistry",
+                "A dynamic representation of tidal forces and their effects on coastal regions",
+                "An animation showing how the Moon's gravity creates tidal cycles",
+                "A detailed visualization of hydrothermal vents and their unique ecosystems",
+                "An animation showing how deep-sea vents support life without sunlight",
+                "A comprehensive visualization of the global water cycle",
+                "An animation showing water's journey through Earth's systems",
+                "A detailed representation of continental shelf ecosystems",
+                "An animation showing the productivity of shallow marine environments",
+                "A scientific visualization of oceans' role in climate regulation",
+                "An animation demonstrating how oceans absorb and store heat and carbon dioxide"
             ]
         },
         {
@@ -70,6 +136,28 @@
                 "Kıtaların kayması teorisi, yeryüzünün bugünkü görünümünü açıklar. Süper kıtalar ve onların parçalanması, dünya tarihinin önemli olaylarıdır.",
                 "Jeotermal sistemler, yerkürenin iç ısısını yüzeye taşır. Bu enerji kaynağı, sürdürülebilir enerji üretimi için kullanılabilir.",
                 "Levha tektoniği, minerallerin ve madenlerin oluşumunda rol oynar. Ekonomik açıdan değerli kaynakların çoğu, bu süreçler sonucu oluşur."
+            ],
+            "prompt": [
+                "A dynamic visualization of Earth's tectonic plates in constant motion",
+                "An animation showing the movement and interaction of continental and oceanic plates",
+                "A dramatic representation of mountain formation through plate collision",
+                "An animation showing the creation of the Himalayas through continental collision",
+                "A detailed visualization of mid-ocean ridges creating new crustal material",
+                "An animation demonstrating seafloor spreading and the formation of new oceanic crust",
+                "A scientific visualization of earthquake mechanisms and plate boundaries",
+                "An animation showing how tectonic movements cause earthquakes",
+                "A comprehensive visualization of volcanic systems and magma chambers",
+                "An animation showing how volcanoes form and erupt at plate boundaries",
+                "A detailed representation of subduction zones and material recycling",
+                "An animation showing how old crust returns to the mantle at trenches",
+                "A dynamic visualization of transform faults and their movements",
+                "An animation demonstrating lateral plate motion along the San Andreas Fault",
+                "A scientific representation of continental drift and supercontinent cycles",
+                "An animation showing the breakup and formation of supercontinents through time",
+                "A detailed visualization of geothermal systems and heat transfer",
+                "An animation showing how Earth's internal heat reaches the surface",
+                "A comprehensive visualization of mineral formation processes",
+                "An animation demonstrating how tectonic processes create valuable mineral deposits"
             ]
         },
         {
@@ -87,6 +175,28 @@
                 "Dağ ekosistemleri, yüksekliğe bağlı olarak değişen yaşam zonları oluşturur. Bu bölgeler, türlerin iklim değişikliğine tepkilerini izlemek için doğal laboratuvarlardır.",
                 "İnsan etkisi, biyosferin her köşesinde hissedilir. Habitat kaybı ve kirlilik, biyoçeşitliliği tehdit eden en büyük sorunlardır.",
                 "Biyosfer, gezegenin yaşam destek sistemlerini düzenler. Karbon döngüsünden oksijen üretimine kadar kritik süreçleri yönetir."
+            ],
+            "prompt": [
+                "A comprehensive visualization of Earth's biosphere showing the interconnected web of life",
+                "An animation demonstrating the interactions between different species and ecosystems",
+                "A lush visualization of rainforest ecosystems and their incredible biodiversity",
+                "An animation showing the complex layers and life forms in tropical rainforests",
+                "A dynamic representation of marine ecosystems from plankton to whales",
+                "An animation showing the diverse life forms and food chains in the oceans",
+                "A detailed visualization of desert adaptations and survival strategies",
+                "An animation demonstrating how life thrives in extreme desert conditions",
+                "A scientific visualization of polar ecosystems and their unique inhabitants",
+                "An animation showing how Arctic and Antarctic life forms adapt to extreme cold",
+                "A comprehensive representation of freshwater ecosystems and river networks",
+                "An animation demonstrating the diversity of life in rivers and lakes",
+                "A detailed visualization of soil ecosystems and underground networks",
+                "An animation showing the complex web of life beneath our feet",
+                "A dynamic representation of mountain ecosystem zones and elevation changes",
+                "An animation showing how life adapts to different altitudes in mountains",
+                "A scientific visualization of human impacts on natural ecosystems",
+                "An animation demonstrating the effects of habitat loss and pollution",
+                "A detailed representation of Earth's life support systems and cycles",
+                "An animation showing how the biosphere regulates essential planetary processes"
             ]
         },
         {
@@ -104,6 +214,28 @@
                 "Yenilenebilir enerji, fosil yakıtlara alternatif sunar. Güneş, rüzgar ve diğer temiz enerji kaynakları, sürdürülebilir bir geleceğin anahtarıdır.",
                 "Doğal kaynakların aşırı kullanımı, ekosistemlerin taşıma kapasitesini zorlar. Döngüsel ekonomi modelleri, kaynak kullanımını optimize etmeyi amaçlar.",
                 "Çevre koruma çabaları, gezegenin geleceği için umut veriyor. Uluslararası işbirliği ve bilinçli tüketim, sürdürülebilir bir dünya için temel oluşturur."
+            ],
+            "prompt": [
+                "A dramatic visualization of human influence on Earth's systems in the Anthropocene era",
+                "An animation showing the transformation of natural landscapes through human activity",
+                "A comprehensive visualization of urban development and ecosystem changes",
+                "An animation demonstrating the evolution of cities and their environmental impact",
+                "A detailed representation of modern agriculture and food production systems",
+                "An animation showing the balance between farming practices and environmental sustainability",
+                "A scientific visualization of industrial activities and their environmental footprint",
+                "An animation demonstrating sustainable production models and green technologies",
+                "A dynamic representation of climate change causes and effects",
+                "An animation showing how greenhouse gas emissions affect global climate systems",
+                "A detailed visualization of ocean pollution and plastic waste",
+                "An animation demonstrating the impact of pollution on marine ecosystems",
+                "A comprehensive representation of deforestation and its consequences",
+                "An animation showing the effects of forest loss on biodiversity and climate",
+                "A scientific visualization of renewable energy technologies",
+                "An animation demonstrating clean energy solutions for a sustainable future",
+                "A detailed representation of resource consumption and circular economy",
+                "An animation showing sustainable resource management and recycling systems",
+                "A dynamic visualization of environmental conservation efforts",
+                "An animation demonstrating global cooperation for environmental protection"
             ]
         },
         {
@@ -121,6 +253,28 @@
                 "Manyetik alan terslenmeleri, yerkürenin tarihinde düzenli olarak gerçekleşmiştir. Bu olaylar, jeolojik kayıtlarda ve okyanus tabanında izlenebilir.",
                 "Jeodinamik süreçler, iç yapı ve manyetik alan arasındaki ilişkiyi gösterir. Bu etkileşimler, gezegenin evrimini şekillendirir.",
                 "Manyetik alanın zayıflaması, gelecekte yaşamı etkileyebilecek bir endişe kaynağıdır. Bilim insanları, bu değişimin etkilerini anlamaya çalışıyor."
+            ],
+            "prompt": [
+                "A dynamic visualization of Earth's magnetic field generated by the liquid outer core",
+                "An animation showing the complex patterns of magnetic field lines protecting Earth",
+                "A detailed representation of the magnetosphere deflecting solar wind",
+                "An animation demonstrating how the magnetic shield protects Earth's atmosphere",
+                "A scientific visualization of aurora formations in the polar regions",
+                "An animation showing the interaction between solar particles and Earth's magnetic field",
+                "A comprehensive visualization of Earth's layered internal structure",
+                "An animation demonstrating the different properties of crust, mantle, and core",
+                "A detailed representation of the liquid outer core's dynamo effect",
+                "An animation showing how molten iron movements generate the magnetic field",
+                "A scientific visualization of the solid inner core's structure",
+                "An animation demonstrating how the inner core stabilizes the magnetic field",
+                "A dynamic representation of mantle convection currents",
+                "An animation showing how heat flow drives plate tectonics",
+                "A detailed visualization of magnetic field reversals through time",
+                "An animation showing how the magnetic poles flip during field reversals",
+                "A comprehensive representation of geodynamic processes",
+                "An animation demonstrating the interaction between internal structure and magnetic field",
+                "A scientific visualization of magnetic field weakening",
+                "An animation showing potential future changes in Earth's magnetic protection"
             ]
         },
         {
@@ -138,6 +292,28 @@
                 "Gelgit enerjisi, yenilenebilir enerji kaynağı olarak kullanılabilir. Bu temiz enerji formu, gelgit akıntılarının gücünden yararlanır.",
                 "Ay ve Dünya arasındaki mesafe, yavaş yavaş artıyor. Bu değişim, gelgitlerin gücünü ve günün uzunluğunu etkiliyor.",
                 "Ay'ın jeolojik tarihi, Dünya'nın geçmişine ışık tutar. Ay yüzeyindeki kraterler ve kayalar, güneş sisteminin erken dönemlerine dair ipuçları sağlar."
+            ],
+            "prompt": [
+                "A comprehensive visualization of the Moon's influence on Earth's natural cycles",
+                "An animation showing the relationship between Earth and its only natural satellite",
+                "A detailed representation of tidal forces and ocean movements",
+                "An animation demonstrating how the Moon's gravity creates tidal bulges",
+                "A scientific visualization of the Moon's formation through giant impact",
+                "An animation showing the collision that created the Earth-Moon system",
+                "A dynamic representation of Earth's crustal tides",
+                "An animation showing how tidal forces affect the solid Earth",
+                "A detailed visualization of the Moon's role in stabilizing Earth's axis",
+                "An animation demonstrating how lunar gravity maintains Earth's stable rotation",
+                "A comprehensive representation of tidal pool ecosystems",
+                "An animation showing how marine life adapts to tidal cycles",
+                "A scientific visualization of lunar phases and their biological effects",
+                "An animation demonstrating how moonlight influences animal behavior",
+                "A detailed representation of tidal energy potential",
+                "An animation showing how tidal movements can generate clean energy",
+                "A dynamic visualization of the increasing Earth-Moon distance",
+                "An animation showing how tidal forces gradually push the Moon away",
+                "A scientific representation of the Moon's geological features",
+                "An animation showing how lunar craters and rocks record solar system history"
             ]
         },
         {
@@ -155,6 +331,28 @@
                 "Buzulların erimesi, deniz seviyesinin yükselmesine neden oluyor. Kıyı bölgeleri ve ada ülkeleri, bu değişimin etkilerini doğrudan yaşıyor.",
                 "İklim değişikliğiyle mücadele, uluslararası işbirliği gerektirir. Paris Anlaşması gibi girişimler, küresel ısınmayı sınırlamayı hedefler.",
                 "Adaptasyon ve dayanıklılık stratejileri, iklim değişikliğinin etkilerine hazırlanmak için önemlidir. Toplumlar ve ekosistemler, değişen koşullara uyum sağlamak zorunda."
+            ],
+            "prompt": [
+                "A detailed visualization of Earth's axial tilt and its role in creating seasons",
+                "An animation showing how the 23.5-degree tilt affects solar radiation distribution",
+                "A comprehensive representation of seasonal cycles in plant and animal life",
+                "An animation demonstrating how wildlife adapts to seasonal changes",
+                "A scientific visualization of climate change impacts on traditional weather patterns",
+                "An animation showing the effects of rising temperatures on ecosystems",
+                "A dynamic representation of Milankovitch cycles and long-term climate changes",
+                "An animation demonstrating how orbital variations influence ice ages",
+                "A detailed visualization of polar day and night phenomena",
+                "An animation showing the unique lighting conditions at Earth's poles",
+                "A comprehensive representation of El Niño and La Niña effects",
+                "An animation demonstrating global weather pattern changes during these events",
+                "A scientific visualization of greenhouse gas emissions and their sources",
+                "An animation showing how human activities alter the planet's energy balance",
+                "A detailed representation of melting glaciers and ice sheets",
+                "An animation demonstrating rising sea levels and coastal impacts",
+                "A dynamic visualization of international climate action",
+                "An animation showing global efforts to combat climate change",
+                "A comprehensive representation of climate adaptation strategies",
+                "An animation demonstrating how societies and ecosystems adapt to changing conditions"
             ]
         },
         {
@@ -172,7 +370,29 @@
                 "Eğitim ve bilinçlendirme, çevre koruma çabalarının başarısı için esastır. Gelecek nesillerin çevre bilinci, gezegenin geleceğini belirleyecek.",
                 "Uluslararası işbirliği, küresel çevre sorunlarıyla mücadelede anahtar rol oynar. Ortak hedefler ve koordineli eylemler, değişim için gereklidir.",
                 "Dünya'nın geleceği, tüm insanlığın ortak sorumluluğudur. Bugün alınan kararlar ve atılan adımlar, gelecek nesillerin yaşam kalitesini belirleyecek."
+            ],
+            "prompt": [
+                "A visionary representation of Earth's sustainable future",
+                "An animation showing the transformation towards environmental harmony",
+                "A comprehensive visualization of renewable energy infrastructure",
+                "An animation demonstrating the transition to clean energy systems",
+                "A detailed representation of marine protected areas and ocean recovery",
+                "An animation showing the restoration of marine ecosystems",
+                "A dynamic visualization of smart city development",
+                "An animation demonstrating sustainable urban living solutions",
+                "A scientific representation of biotechnology applications",
+                "An animation showing innovative solutions for food security",
+                "A detailed visualization of space-based Earth monitoring",
+                "An animation demonstrating satellite technology for environmental protection",
+                "A comprehensive representation of circular economy principles",
+                "An animation showing zero-waste systems and resource recycling",
+                "A dynamic visualization of environmental education initiatives",
+                "An animation demonstrating the power of ecological awareness",
+                "A scientific representation of international environmental cooperation",
+                "An animation showing global partnerships for planetary health",
+                "A hopeful visualization of Earth's restored ecosystems",
+                "An animation demonstrating humanity's role as environmental stewards"
             ]
         }
     ]
-} 
+}

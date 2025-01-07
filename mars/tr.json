@@ -19,6 +19,28 @@
                 "Mars'ta bulunan Valles Marineris, güneş sistemindeki en büyük kanyondur. Bu dev kanyon, uzunluğu ve derinliğiyle Dünya'daki Büyük Kanyon'dan çok daha büyüktür.",
                 "Gezegen yüzeyinde bulunan kuru nehir yatakları ve göl havzaları, Mars'ın geçmişte sıvı suya sahip olduğunu gösterir. Bu keşif, gezegendeki yaşam olasılığını artırır.",
                 "Mars'ın keşfi hala devam ediyor. Yüzeyinde çalışan robotik araçlar ve yörüngesindeki uydular, her gün yeni bilgiler sağlıyor ve gezegenin gizemlerini çözmeye yardımcı oluyor."
+            ], 
+            "prompt": [
+                "Create a captivating visual journey showcasing Mars, the Red Planet, highlighting its unique features from its iron-rich surface to its towering Olympus Mons, emphasizing its similarities to Earth while portraying its distinct characteristics as the fourth planet from the Sun.",
+                "Develop an immersive documentary sequence about Mars that explores its mystical red appearance, dramatic landscapes, and its two moons, focusing on how this fascinating planet has captured human imagination throughout history and its potential for future exploration.",
+                "Craft a compelling narrative about Mars' surface features, focusing on the massive Olympus Mons volcano and the extensive Valles Marineris canyon system, showcasing the planet's geological wonders through stunning visual representations.",
+                "Design an engaging visualization of Mars' unique topography, emphasizing the stark contrast between its hemispheres and the evidence of ancient water flows, bringing to life the planet's mysterious geological history.",
+                "Create a dynamic presentation of Mars' atmospheric phenomena, highlighting the planet's dust storms, thin atmosphere, and extreme temperature variations, illustrating how these conditions shape the Martian environment.",
+                "Produce an informative sequence about Mars' climate patterns, showcasing its seasonal changes and polar ice caps, demonstrating how the planet's axial tilt affects its weather systems.",
+                "Develop a detailed exploration of Mars' potential for harboring life, focusing on the evidence of past water activity and the presence of organic molecules on the planet's surface.",
+                "Generate a comprehensive visual story about Mars' underground water resources, emphasizing the significance of ice deposits and possible liquid water reservoirs beneath the surface.",
+                "Create an engaging narrative about Mars' moons Phobos and Deimos, illustrating their unique characteristics and their relationship with the Red Planet.",
+                "Design a visually stunning sequence about Mars' geological evolution, showcasing how the planet transformed from a potentially habitable world to its current state.",
+                "Produce an immersive journey through Mars' ancient river valleys and lake beds, emphasizing the planet's wet past and its implications for potential ancient life.",
+                "Craft a detailed visualization of Mars' polar regions, highlighting the seasonal changes in the ice caps and their composition of water and carbon dioxide ice.",
+                "Generate an informative presentation about Mars' atmosphere loss over time, illustrating how this process transformed the planet's climate and surface conditions.",
+                "Create a compelling sequence about Mars' volcanic history, focusing on the massive Tharsis region and its impact on the planet's geology.",
+                "Develop a visual exploration of Mars' impact craters, telling the story of the planet's violent past and its geological timeline.",
+                "Design an engaging narrative about Mars' potential for human colonization, highlighting the challenges and opportunities presented by the Red Planet.",
+                "Produce a detailed sequence about Mars' role in our understanding of planetary evolution, emphasizing its unique position in solar system studies.",
+                "Craft a comprehensive visualization of Mars' current exploration missions, showcasing how robots and orbiters are unveiling the planet's secrets.",
+                "Generate an immersive presentation about Mars' significance in the search for extraterrestrial life, highlighting key discoveries and future possibilities.",
+                "Create a dynamic story about Mars' place in human space exploration, emphasizing its role as humanity's next great frontier."
             ]
         },
         {
@@ -36,6 +58,28 @@
                 "Mars'ın yüzeyinde bulunan mineraller, geçmişteki su varlığının kanıtıdır. Hematit ve sülfat mineralleri, suyun varlığında oluşan yapılardır.",
                 "Gezegenin bazı bölgelerinde görülen periyodik çizgiler, mevsimsel olarak akan sıvıların varlığına işaret eder. Bu akıntılar, tuzlu su çözeltilerinden kaynaklanabilir.",
                 "Mars'ın yüzeyindeki rüzgar aşındırması, ilginç kaya formasyonları oluşturur. Bu şekiller, gezegenin atmosfer dinamiklerini anlamamıza yardımcı olur."
+            ],
+            "prompt": [
+                "Create a detailed visual exploration of Mars' surface features, focusing on the planet's massive volcanoes, deep canyons, and ancient crater fields that tell the story of its geological history.",
+                "Design an immersive journey across Mars' diverse terrain, highlighting the contrast between its smooth northern plains and cratered southern highlands, showcasing the planet's unique geological dichotomy.",
+                "Produce a comprehensive visualization of Olympus Mons on Mars, emphasizing its immense scale and comparing it to Earth's largest mountains.",
+                "Craft a stunning sequence about Mars' Valles Marineris, showcasing the grandeur of this massive canyon system and its formation through tectonic activity.",
+                "Generate an engaging presentation about Mars' impact craters, illustrating how they reveal the planet's atmospheric evolution and geological timeline.",
+                "Create a dynamic visualization of Mars' sand dunes and dust storms, showing how these features constantly reshape the planet's surface.",
+                "Develop an informative sequence about Mars' polar ice caps, highlighting their layered structure and seasonal changes.",
+                "Design a detailed exploration of Mars' mineral deposits, focusing on how they provide evidence of the planet's watery past.",
+                "Produce a compelling narrative about Mars' recurring slope lineae, illustrating how these features might indicate present-day water activity.",
+                "Craft an immersive journey through Mars' wind-carved rock formations, showing how atmospheric processes shape the planet's landscape.",
+                "Generate a comprehensive visualization of Mars' ancient river valleys, emphasizing how they reveal the planet's potentially habitable past.",
+                "Create a detailed sequence about Mars' unique geological formations, highlighting how they differ from similar features on Earth.",
+                "Develop an engaging presentation about Mars' surface composition, focusing on the distribution of various minerals and rocks.",
+                "Design a visual exploration of Mars' tectonic history, showing how it shaped the planet's current surface features.",
+                "Produce an informative narrative about Mars' erosion patterns, illustrating how various forces have shaped the planet's landscape.",
+                "Craft a stunning visualization of Mars' volcanic regions, emphasizing their scale and importance in the planet's geology.",
+                "Generate a detailed sequence about Mars' sedimentary deposits, showing how they preserve the planet's geological history.",
+                "Create an immersive exploration of Mars' unique surface textures, highlighting how they formed under different environmental conditions.",
+                "Develop a comprehensive presentation about Mars' geological timeline, showing how major events shaped its current appearance.",
+                "Design a dynamic visualization of Mars' surface changes over time, emphasizing both ancient and ongoing geological processes."
             ]
         },
         {
@@ -53,6 +97,28 @@
                 "Kutup bölgelerindeki buz başlıkları, mevsimsel olarak büyür ve küçülür. Bu değişim, atmosferdeki karbondioksit miktarını etkiler.",
                 "Mars'ın atmosferi, güneş rüzgarları tarafından sürekli aşındırılır. Bu süreç, atmosferin zaman içinde incelmesine neden olmuştur.",
                 "Gezegenin atmosferindeki toz parçacıkları, karakteristik kızıl gökyüzü rengini oluşturur. Bu parçacıklar aynı zamanda güneş ışığını filtreleyerek yüzey sıcaklığını etkiler."
+            ],
+            "prompt": [
+                "Create a comprehensive visualization of Mars' thin atmosphere, highlighting its composition and unique characteristics compared to Earth's atmosphere.",
+                "Design an immersive exploration of Mars' global dust storms, showing how they can engulf the entire planet and affect its climate.",
+                "Produce a detailed sequence about Mars' atmospheric pressure variations, illustrating why liquid water can't exist on the surface for long.",
+                "Craft a dynamic presentation of Mars' extreme temperature fluctuations, showing how they affect the planet's environment.",
+                "Generate an engaging visualization of Mars' cloud formations, highlighting the unique conditions that create water and CO2 ice clouds.",
+                "Create an informative narrative about Mars' seasonal changes, emphasizing how its axial tilt influences weather patterns.",
+                "Develop a compelling sequence about Mars' methane detection, exploring its potential origins and significance.",
+                "Design a detailed visualization of Mars' polar ice caps, showing their seasonal variations and composition.",
+                "Produce an immersive journey through Mars' atmospheric erosion by solar winds, illustrating the planet's atmospheric loss over time.",
+                "Craft a stunning presentation about Mars' distinctive red sky, explaining how dust particles create this iconic view.",
+                "Generate a comprehensive exploration of Mars' weather patterns, highlighting the planet's unique atmospheric circulation.",
+                "Create a detailed sequence about Mars' atmospheric history, showing how it evolved from a thicker past atmosphere.",
+                "Develop an engaging visualization of Mars' dust devils, showing how they form and move across the planet's surface.",
+                "Design an informative presentation about Mars' atmospheric composition, emphasizing its primarily CO2 nature.",
+                "Produce a compelling narrative about Mars' greenhouse effect, showing how the thin atmosphere affects surface temperatures.",
+                "Craft a dynamic sequence about Mars' atmospheric pressure variations with altitude, illustrating the challenges for exploration.",
+                "Generate a detailed exploration of Mars' wind patterns, showing how they shape the planet's surface features.",
+                "Create an immersive visualization of Mars' seasonal dust storm patterns, highlighting their impact on the planet.",
+                "Develop a comprehensive presentation about Mars' atmospheric chemistry, showing how it differs from Earth's.",
+                "Design a stunning sequence about Mars' day-night temperature cycles, illustrating the extreme variations in its thin atmosphere."
             ]
         },
         {
@@ -70,6 +136,28 @@
                 "Geçmişte Mars'ın daha kalın bir atmosfere ve ılıman bir iklime sahip olduğu düşünülüyor. Bu koşullar, yaşamın gelişmesi için uygun bir ortam sağlamış olabilir.",
                 "Mars'taki mağaralar ve yeraltı boşlukları, olası yaşam formları için korunaklı ortamlar sunabilir. Bu alanlar, radyasyondan ve aşırı sıcaklık değişimlerinden korunma sağlar.",
                 "Gelecekteki Mars misyonları, gezegenin yaşam potansiyelini araştırmaya devam edecek. Her yeni keşif, Mars'taki yaşam olasılığı hakkında daha fazla bilgi sağlıyor."
+            ],
+            "prompt": [
+                "Create an engaging visualization of Mars' ancient waterways, showing how they provide evidence for the planet's potentially habitable past.",
+                "Design a comprehensive exploration of Mars' polar ice deposits, highlighting their importance for future human missions.",
+                "Produce a detailed sequence about Mars' water-formed minerals, illustrating how they reveal the planet's wet history.",
+                "Craft an immersive journey through Mars' subsurface water possibilities, showing potential liquid water reservoirs.",
+                "Generate a compelling narrative about Mars' organic molecules, emphasizing their significance for potential life.",
+                "Create a dynamic visualization of Mars' methane emissions, exploring their possible biological or geological origins.",
+                "Develop an informative sequence about Mars' recurring slope lineae, showing how they might indicate present-day water activity.",
+                "Design a detailed presentation about Mars' ancient climate, illustrating how it could have supported life.",
+                "Produce a stunning exploration of Mars' cave systems, highlighting their potential as habitats for life.",
+                "Craft a comprehensive visualization of Mars' future exploration missions focused on finding life.",
+                "Generate an engaging sequence about Mars' soil composition, showing how it might support microbial life.",
+                "Create a detailed narrative about Mars' atmospheric changes, illustrating how they affected the planet's habitability.",
+                "Develop an immersive presentation about Mars' potential biosignatures, highlighting what scientists look for.",
+                "Design an informative visualization of Mars' protected habitats, showing where life might exist today.",
+                "Produce a compelling sequence about Mars' ancient lakes and oceans, emphasizing their potential for past life.",
+                "Craft a dynamic exploration of Mars' subsurface environment, showing how it might protect potential life forms.",
+                "Generate a detailed presentation about Mars' chemical environment, illustrating its compatibility with life.",
+                "Create an immersive sequence about Mars' water cycle, showing how it differs from Earth's.",
+                "Develop a comprehensive visualization of Mars' potential microhabitats, highlighting conditions favorable for life.",
+                "Design a stunning narrative about Mars' role in our search for extraterrestrial life, emphasizing its unique position."
             ]
         },
         {
@@ -87,6 +175,28 @@
                 "Gelecekteki Mars misyonları, bu uydulara iniş yapmayı planlıyor. Bu görevler, uydulardan örnek toplayarak kökenlerini ve yapılarını incelemeyi hedefliyor.",
                 "Phobos ve Deimos'un kökeni hala tartışma konusudur. Bazı bilim insanları bunların yakalanmış asteroitler olduğunu, bazıları ise Mars'tan kopan parçalar olabileceğini düşünüyor.",
                 "Uydular, gelecekteki Mars keşif misyonları için önemli bir rol oynayabilir. Düşük yerçekimleri ve Mars'a yakınlıkları, onları potansiyel uzay istasyonları için uygun adaylar yapar."
+            ],
+            "prompt": [
+                "Create a comprehensive visualization of Mars' two moons, Phobos and Deimos, showing their unique characteristics and orbits around the Red Planet.",
+                "Design an immersive exploration of Phobos, Mars' larger moon, highlighting its crater-covered surface and eventual fate.",
+                "Produce a detailed sequence about Deimos, Mars' outer moon, showing its smooth surface and nearly circular orbit.",
+                "Craft a dynamic presentation about Phobos' declining orbit, illustrating its eventual collision course with Mars.",
+                "Generate an engaging visualization of both Martian moons' surfaces, showing their loose rock and dust composition.",
+                "Create an informative narrative about the Stickney Crater on Phobos, emphasizing its massive scale relative to the moon.",
+                "Develop a compelling sequence about Mars' gravitational effects on its moons, showing how it shapes their surfaces.",
+                "Design a detailed visualization of future missions to Mars' moons, highlighting their scientific objectives.",
+                "Produce an immersive journey exploring the origins of Phobos and Deimos, showing different theories about their formation.",
+                "Craft a stunning presentation about the potential use of Mars' moons in future exploration missions.",
+                "Generate a comprehensive exploration of the Martian moons' orbital dynamics, showing their unique patterns.",
+                "Create a detailed sequence about the surface features of both Martian moons, highlighting their distinct characteristics.",
+                "Develop an engaging visualization of how Mars' moons appear from the planet's surface, showing their rapid transits.",
+                "Design an informative presentation about the size comparison between Mars and its moons, emphasizing their small scale.",
+                "Produce a compelling narrative about the discovery of Mars' moons, highlighting their historical significance.",
+                "Craft a dynamic sequence about the potential resources on Mars' moons, showing their importance for future missions.",
+                "Generate a detailed exploration of the geological history of Mars' moons, showing how they've evolved over time.",
+                "Create an immersive visualization of the day-night cycle on Mars' moons, showing how they experience sunlight.",
+                "Develop a comprehensive presentation about the role of Mars' moons in understanding asteroid capture processes.",
+                "Design a stunning sequence about the future of Mars' moons, showing their predicted long-term evolution."
             ]
         },
         {
@@ -104,6 +214,28 @@
                 "Curiosity rover, iki bin on ikide Mars'a inmiş ve hala aktif olarak çalışmaktadır. Bu gelişmiş laboratuvar, gezegenin yaşanabilirlik potansiyelini araştırmaktadır.",
                 "Perseverance rover ve Ingenuity helikopteri, iki bin yirmi birde Mars'a ulaşmıştır. Bu misyon, gezegenden örnek toplamayı ve ilk Mars helikopterini uçurmayı başarmıştır.",
                 "Gelecekteki Mars misyonları, insanlı uçuşları ve örnek getirme görevlerini hedefliyor. Bu misyonlar, Mars'ın keşif tarihinde yeni bir dönem başlatacak."
+            ],
+            "prompt": [
+                "Create an engaging timeline of Mars exploration, from ancient observations to modern missions, highlighting humanity's fascination with the Red Planet.",
+                "Design a comprehensive visualization of Galileo's first telescopic observations of Mars, showing how they changed our understanding.",
+                "Produce a detailed sequence about the 19th-century Mars canal controversy, illustrating how it sparked public imagination.",
+                "Craft an immersive journey through the Mariner 4 mission, showing the first close-up images of Mars' surface.",
+                "Generate a compelling narrative about the Viking missions, highlighting their groundbreaking search for life on Mars.",
+                "Create a dynamic visualization of the Mars Pathfinder mission, showing how it pioneered rover exploration.",
+                "Develop an informative sequence about the Spirit and Opportunity rovers, highlighting their major discoveries about Mars' wet history.",
+                "Design a detailed presentation about the Curiosity rover's ongoing mission, showing its advanced scientific capabilities.",
+                "Produce a stunning exploration of the Perseverance rover and Ingenuity helicopter, highlighting their technological achievements.",
+                "Craft a comprehensive visualization of future Mars exploration plans, showing upcoming missions and their objectives.",
+                "Generate an engaging sequence about early telescopic observations of Mars, showing how our view of the planet evolved.",
+                "Create a detailed narrative about the first successful Mars orbiters, showing how they mapped the planet.",
+                "Develop an immersive presentation about the search for life on Mars, showing how our approach has evolved.",
+                "Design an informative visualization of Mars landing sites, showing where various missions have explored.",
+                "Produce a compelling sequence about the evolution of Mars rover technology, showing how it's advanced over time.",
+                "Craft a dynamic exploration of Mars sample return missions, showing their importance for future research.",
+                "Generate a detailed presentation about international Mars exploration efforts, showing global collaboration.",
+                "Create an immersive sequence about the challenges of Mars exploration, showing how they've been overcome.",
+                "Develop a comprehensive visualization of Mars observation technology, showing how it's improved over time.",
+                "Design a stunning narrative about the future of Mars exploration, showing planned missions and technologies."
             ]
         },
         {
@@ -121,6 +253,28 @@
                 "Gezegenin kuzey ve güney yarımküreleri arasındaki yükselti farkı, erken dönem bir çarpışmanın sonucu olabilir. Bu olay, Mars'ın jeolojik evrimini derinden etkilemiştir.",
                 "Mars'ın yüzeyinde bulunan mineraller, geçmişteki su aktivitesinin kanıtıdır. Bu mineraller, suyun varlığında oluşan kimyasal değişimlerin ürünüdür.",
                 "Gezegendeki kanyonlar ve vadiler, hem su erozyonu hem de tektonik aktivite sonucu oluşmuştur. Bu yapılar, Mars'ın dinamik jeolojik geçmişini gösterir."
+            ],
+            "prompt": [
+                "Create a comprehensive visualization of Mars' geological structure, showing its 4-billion-year history and evolution.",
+                "Design an immersive exploration of Mars' thick crust, highlighting how it differs from Earth's tectonic plates.",
+                "Produce a detailed sequence about Mars' mantle structure, showing its composition and reduced activity.",
+                "Craft a dynamic presentation about Mars' core, illustrating its iron-nickel composition and magnetic field loss.",
+                "Generate an engaging visualization of the Tharsis region on Mars, showing its massive volcanic formations.",
+                "Create an informative narrative about Mars' fault lines, highlighting how they formed during the planet's cooling.",
+                "Develop a compelling sequence about Mars' polar ice layers, showing how they record climate history.",
+                "Design a detailed visualization of Mars' hemispheric dichotomy, illustrating the impact theory of its formation.",
+                "Produce an immersive journey through Mars' mineral deposits, showing evidence of past water activity.",
+                "Craft a stunning presentation about Mars' canyons and valleys, highlighting their formation processes.",
+                "Generate a comprehensive exploration of Mars' volcanic history, showing how it shaped the planet's surface.",
+                "Create a detailed sequence about Mars' impact craters, illustrating their role in understanding the planet's age.",
+                "Develop an engaging visualization of Mars' sedimentary layers, showing how they preserve geological history.",
+                "Design an informative presentation about Mars' ancient river systems, highlighting their geological significance.",
+                "Produce a compelling narrative about Mars' tectonic activity, showing how it differs from Earth's.",
+                "Craft a dynamic sequence about Mars' geological timeline, illustrating major events in its history.",
+                "Generate a detailed exploration of Mars' rock formations, showing how they reveal the planet's past.",
+                "Create an immersive visualization of Mars' geological processes, highlighting current and past activity.",
+                "Develop a comprehensive presentation about Mars' mineral composition, showing its geological diversity.",
+                "Design a stunning sequence about Mars' future geological evolution, showing predicted changes over time."
             ]
         },
         {
@@ -138,6 +292,28 @@
                 "İlk Mars kolonicileri, zorlu koşullara ve izolasyona dayanabilecek özel eğitimli kişiler olacaktır. Bu ekipler, gelecekteki yerleşimlerin temelini atacak.",
                 "Mars'ta enerji üretimi, güneş panelleri ve nükleer güç sistemleriyle sağlanabilir. Bu sistemler, kolonilerin yaşam destek ünitelerini ve diğer kritik sistemleri besleyecek.",
                 "Gezegendeki ilk yerleşimler, bilimsel araştırma üslerinden kalıcı kolonilere doğru evrilecek. Bu süreç, insanlık tarihinde yeni bir çağın başlangıcı olacak."
+            ],
+            "prompt": [
+                "Create an engaging visualization of human Mars exploration plans, showing the challenges and opportunities of colonization.",
+                "Design a comprehensive exploration of radiation protection on Mars, illustrating solutions for human habitation.",
+                "Produce a detailed sequence about Mars habitats, showing underground and dome-based living spaces.",
+                "Craft an immersive journey through resource utilization on Mars, highlighting how colonists will use local materials.",
+                "Generate a compelling narrative about water extraction from Mars' ice deposits, showing its importance for survival.",
+                "Create a dynamic visualization of low-gravity effects on human health, illustrating solutions and adaptations.",
+                "Develop an informative sequence about Mars agriculture, showing controlled environment farming techniques.",
+                "Design a detailed presentation about the first Mars colonists, highlighting their training and preparation.",
+                "Produce a stunning exploration of Mars energy systems, showing solar and nuclear power solutions.",
+                "Craft a comprehensive visualization of Mars transportation systems, illustrating mobility solutions.",
+                "Generate an engaging sequence about Mars medical facilities, showing healthcare in space colonies.",
+                "Create a detailed narrative about Mars communication systems, highlighting Earth-Mars information exchange.",
+                "Develop an immersive presentation about Mars construction techniques, showing how structures will be built.",
+                "Design an informative visualization of Mars resource mining, illustrating extraction and processing methods.",
+                "Produce a compelling sequence about Mars waste management, showing sustainable colony systems.",
+                "Craft a dynamic exploration of Mars emergency procedures, highlighting safety protocols and systems.",
+                "Generate a detailed presentation about Mars social structures, showing how communities will function.",
+                "Create an immersive visualization of Mars scientific research facilities, showing ongoing exploration.",
+                "Develop a comprehensive sequence about Mars terraforming possibilities, illustrating long-term transformation.",
+                "Design a stunning narrative about Mars as humanity's second home, showing the vision of multi-planetary life."
             ]
         },
         {
@@ -155,6 +331,28 @@
                 "Gezegenin uydularının kökeni, güneş sistemindeki uydu oluşum süreçlerini anlamamıza yardımcı olur. Phobos ve Deimos'un incelenmesi, asteroid yakalama teorilerini test eder.",
                 "Mars'taki organik moleküllerin varlığı, yaşamın kimyasal öncülerinin dağılımını anlamamıza yardımcı olur. Bu bilgi, astrobiyoloji araştırmaları için çok değerlidir.",
                 "Gezegendeki minerallerin incelenmesi, Mars'ın ve diğer gezegenlerin kimyasal evrimini anlamamıza katkıda bulunur. Bu araştırmalar, gezegen oluşum teorilerini geliştirir."
+            ],
+            "prompt": [
+                "Create a comprehensive visualization of Mars' role in understanding solar system formation, showing its significance in planetary science.",
+                "Design an immersive exploration of Mars' geological history, highlighting how it helps us understand Earth's early periods.",
+                "Produce a detailed sequence about Mars' water history, showing its importance in the search for extraterrestrial life.",
+                "Craft a dynamic presentation about Mars' atmospheric loss, illustrating lessons for planetary atmosphere evolution.",
+                "Generate an engaging visualization of Mars' climate change, showing its relevance to understanding planetary climate systems.",
+                "Create an informative narrative about Mars' volcanic activity, highlighting its importance in understanding planetary interiors.",
+                "Develop a compelling sequence about Mars' magnetic field loss, showing its implications for planetary protection.",
+                "Design a detailed visualization of Mars' moons' origins, illustrating theories about satellite formation.",
+                "Produce an immersive journey through Mars' organic molecules, showing their significance in astrobiology.",
+                "Craft a stunning presentation about Mars' mineral composition, highlighting its role in understanding chemical evolution.",
+                "Generate a comprehensive exploration of Mars' role in testing planetary formation theories.",
+                "Create a detailed sequence about Mars' impact on our understanding of habitability zones.",
+                "Develop an engaging visualization of Mars' contribution to space technology advancement.",
+                "Design an informative presentation about Mars' role in understanding extreme environments.",
+                "Produce a compelling narrative about Mars' importance in developing space exploration techniques.",
+                "Craft a dynamic sequence about Mars' influence on our understanding of planetary protection.",
+                "Generate a detailed exploration of Mars' contribution to astrobiology research.",
+                "Create an immersive visualization of Mars' role in testing life detection technologies.",
+                "Develop a comprehensive presentation about Mars' impact on planetary geology studies.",
+                "Design a stunning sequence about Mars' significance in planning future space exploration."
             ]
         },
         {
@@ -172,6 +370,28 @@
                 "Gezegendeki metan kaynakları detaylı olarak araştırılacak. Bu araştırmalar, olası biyolojik aktivite veya jeolojik süreçler hakkında yeni bilgiler sağlayacak.",
                 "Mars'ın iç yapısını inceleyen sismik çalışmalar devam edecek. Bu çalışmalar, gezegenin çekirdeği ve mantosu hakkında daha fazla bilgi edinmemizi sağlayacak.",
                 "Uluslararası uzay ajansları, Mars'ın keşfi için işbirliği yapıyor. Bu ortak çabalar, insanlığın Mars'ı anlama ve kolonileştirme hedeflerine ulaşmasını sağlayacak."
+            ],
+            "prompt": [
+                "Create an engaging visualization of future Mars life detection missions, showing advanced search techniques for biological activity.",
+                "Design a comprehensive exploration of Mars sample return missions, highlighting their importance for detailed analysis.",
+                "Produce a detailed sequence about planned human missions to Mars, showing preparation and execution strategies.",
+                "Craft an immersive journey through Mars' subsurface ice mapping projects, illustrating future water resource studies.",
+                "Generate a compelling narrative about Mars terraforming research, showing potential methods for atmospheric modification.",
+                "Create a dynamic visualization of next-generation Mars rovers, highlighting their advanced exploration capabilities.",
+                "Develop an informative sequence about future Phobos and Deimos missions, showing plans for moon exploration.",
+                "Design a detailed presentation about Mars methane source investigations, illustrating planned detection methods.",
+                "Produce a stunning exploration of future Mars seismic studies, showing plans for internal structure research.",
+                "Craft a comprehensive visualization of international Mars exploration cooperation, highlighting collaborative missions.",
+                "Generate an engaging sequence about future Mars habitat testing, showing experimental living space designs.",
+                "Create a detailed narrative about planned Mars atmospheric studies, illustrating new research approaches.",
+                "Develop an immersive presentation about future Mars polar exploration, showing plans for ice cap research.",
+                "Design an informative visualization of Mars underground mapping projects, highlighting cave exploration plans.",
+                "Produce a compelling sequence about future Mars soil analysis missions, showing advanced testing methods.",
+                "Craft a dynamic exploration of planned Mars communication networks, showing future infrastructure development.",
+                "Generate a detailed presentation about Mars resource utilization experiments, illustrating in-situ testing plans.",
+                "Create an immersive visualization of future Mars weather monitoring systems, showing advanced climate research.",
+                "Develop a comprehensive sequence about planned Mars astrobiology missions, showing new life detection methods.",
+                "Design a stunning narrative about the future of Mars exploration, showing the roadmap for upcoming decades."
             ]
         }
     ]
