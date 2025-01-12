@@ -1,0 +1,16 @@
+{
+    "name": "Balık Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-balik/balik.jpg",
+    "description": "Balık burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-balik/balik.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

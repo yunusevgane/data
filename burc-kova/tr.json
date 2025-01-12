@@ -1,0 +1,16 @@
+{
+    "name": "Kova Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-kova/kova.jpg",
+    "description": "Kova burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-kova/kova.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

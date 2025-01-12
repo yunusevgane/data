@@ -1,0 +1,16 @@
+{
+    "name": "Boğa Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-boga/boga.jpg",
+    "description": "Boğa burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-boga/boga.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

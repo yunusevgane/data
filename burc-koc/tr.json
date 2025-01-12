@@ -1,0 +1,264 @@
+{
+    "name": "Koç Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-koc/koc.jpg",
+    "description": "Koç burcu günlük yorumları",
+    "child": [
+        {
+            "name": "1 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Yeni yılın ilk gününde Mars'ın etkisiyle enerjiniz yüksek olacak. İş hayatınızda yeni başlangıçlar için ideal bir gün. Finansal konularda dikkatli olmalı, ani kararlar vermekten kaçınmalısınız. Aşk hayatınızda ise beklenmedik gelişmeler yaşanabilir. Sağlığınıza dikkat etmeli, özellikle spor yaparken aşırıya kaçmamalısınız."
+            ]
+        },
+        {
+            "name": "2 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Venüs'ün olumlu etkisiyle ilişkilerinizde harmonik bir gün geçireceksiniz. İş yerinde takım çalışmalarında başarılı olacaksınız. Yaratıcılığınız zirve yapacak ve yeni projeler için ilham alacaksınız. Ailevi konularda bazı sorumluluklar alabilir, ev içi düzenlemelerle ilgilenebilirsiniz."
+            ]
+        },
+        {
+            "name": "3 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Merkür'ün etkisiyle iletişim yetenekleriniz güçlenecek. Önemli görüşmeler ve toplantılar için uygun bir gün. Kariyerinizde yeni fırsatlar karşınıza çıkabilir. Sosyal çevrenizde popülaritiniz artacak. Eğitim ve öğrenme konularında başarılı olacağınız bir dönemdesiniz."
+            ]
+        },
+        {
+            "name": "4 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Jüpiter'in etkisiyle şansınız yüksek olacak. Finansal konularda beklenmedik kazançlar elde edebilirsiniz. İş hayatınızda önemli kişilerle tanışabilir, yeni ortaklıklar kurabilirsiniz. Aşk hayatınızda ise duygusal derinlik yaşayacağınız bir gün olabilir."
+            ]
+        },
+        {
+            "name": "5 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Satürn'ün etkisiyle sorumluluk duygunuz artacak. İş hayatınızda disiplinli çalışmanızın meyvelerini toplayabilirsiniz. Aile içi ilişkilerde bazı gerginlikler yaşanabilir, sabırlı olmalısınız. Sağlık konularında düzenli egzersiz yapmaya özen göstermelisiniz."
+            ]
+        },
+        {
+            "name": "6 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Ay'ın etkisiyle duygusal yönünüz ön plana çıkacak. İlişkilerinizde daha anlayışlı ve empatik davranacaksınız. Yaratıcı projeleriniz için ilham dolu bir gün. Ev ve aile konularında önemli kararlar alabilirsiniz. Sezgilerinize güvenmelisiniz."
+            ]
+        },
+        {
+            "name": "7 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Güneş'in etkisiyle özgüveniniz yükselecek. Kariyerinizde önemli adımlar atabilir, liderlik vasıflarınızı gösterebilirsiniz. Sosyal çevrenizde dikkat çekecek, yeni arkadaşlıklar kurabileceksiniz. Sportif faaliyetler için uygun bir gün."
+            ]
+        },
+        {
+            "name": "8 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Uranüs'ün etkisiyle beklenmedik değişimler yaşayabilirsiniz. Rutininizden çıkıp yeni deneyimler aramalısınız. Teknoloji ve inovasyon konularında başarılı olacaksınız. Arkadaş çevrenizde sürpriz gelişmeler olabilir."
+            ]
+        },
+        {
+            "name": "9 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Neptün'ün etkisiyle sezgileriniz güçlenecek. Sanatsal faaliyetlerde başarılı olacağınız bir gün. Ruhsal konulara ilginiz artabilir, meditasyon yapabilirsiniz. İş hayatınızda belirsizliklerle karşılaşabilirsiniz, net olmalısınız."
+            ]
+        },
+        {
+            "name": "10 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Plüton'un etkisiyle iç dünyanızı keşfedeceksiniz. Derin duygusal değişimler yaşayabilirsiniz. İş hayatınızda güç mücadeleleriyle karşılaşabilir, stratejik davranmalısınız. Finansal konularda temkinli olmalısınız."
+            ]
+        },
+        {
+            "name": "11 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Mars ve Venüs'ün uyumlu açısı sayesinde hem enerjik hem de çekici olacaksınız. İş ve aşk hayatınızda dengeli ilerleyebilirsiniz. Sosyal aktivitelerde öne çıkacak, yeni insanlarla tanışacaksınız. Yaratıcı projeleriniz için ideal bir gün."
+            ]
+        },
+        {
+            "name": "12 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Merkür'ün retrosu nedeniyle iletişimde bazı aksaklıklar yaşayabilirsiniz. Önemli kararlar almaktan kaçınmalı, var olan projelerinizi gözden geçirmelisiniz. Eski dostlarınızla görüşmek için uygun bir zaman. Seyahat planlarınızda değişiklikler olabilir."
+            ]
+        },
+        {
+            "name": "13 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Jüpiter'in olumlu etkisiyle eğitim ve öğrenme konularında şanslı olacaksınız. Yeni bir kursa başlayabilir veya yurtdışı bağlantılı projeler geliştirebilirsiniz. Manevi konulara ilginiz artacak. Uzak yerlerden güzel haberler alabilirsiniz."
+            ]
+        },
+        {
+            "name": "14 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Satürn'ün etkisiyle kariyer hayatınızda önemli sorumluluklar üstlenebilirsiniz. Uzun vadeli planlarınız için adımlar atmalısınız. Aile büyükleriyle ilgili konular gündeme gelebilir. Sağlığınıza dikkat etmeli, düzenli beslenmelisiniz."
+            ]
+        },
+        {
+            "name": "15 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Ay'ın dolunay etkisiyle duygusal farkındalığınız artacak. İlişkilerinizde denge kurmaya çalışmalısınız. İş hayatınızda bir projenin sonuçlarını alabilirsiniz. Ev ve aile konularında önemli kararlar vermek için uygun bir zaman."
+            ]
+        },
+        {
+            "name": "16 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Güneş'in desteğiyle kariyerinizde parlayacaksınız. Üstlerinizle olumlu ilişkiler kurabilir, takdir görebilirsiniz. Finansal konularda şanslı bir gündesiniz. Sosyal çevrenizde liderlik özellikleriniz ön plana çıkacak."
+            ]
+        },
+        {
+            "name": "17 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Uranüs'ün sürpriz etkileriyle rutininiz değişebilir. Yeni teknolojiler ve modern yaklaşımlar ilginizi çekecek. Arkadaş çevrenizde beklenmedik gelişmeler yaşanabilir. Özgürlüğünüze düşkün olacağınız bir gün."
+            ]
+        },
+        {
+            "name": "18 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Neptün'ün mistik etkisiyle sanatsal yönünüz güçlenecek. Hayal gücünüz ve yaratıcılığınız zirve yapacak. İş hayatınızda belirsiz durumlarla karşılaşabilirsiniz. Meditasyon ve yoga gibi aktiviteler için ideal bir gün."
+            ]
+        },
+        {
+            "name": "19 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Plüton'un dönüştürücü etkisiyle hayatınızda köklü değişimler yaşayabilirsiniz. Kariyerinizde güç dengelerini iyi yönetmelisiniz. Finansal konularda risk almaktan kaçınmalı, tasarruf odaklı olmalısınız."
+            ]
+        },
+        {
+            "name": "20 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Mars'ın enerjisiyle fiziksel aktivitelerde başarılı olacaksınız. Rekabet gerektiren işlerde öne çıkabilirsiniz. Aşk hayatınızda tutkulu yaklaşımlar sergileyebilirsiniz. Yeni başlangıçlar için cesaretiniz yüksek olacak."
+            ]
+        },
+        {
+            "name": "21 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Venüs'ün harmonik etkisiyle sosyal ilişkileriniz güçlenecek. Sanat ve estetik konularına ilginiz artacak. İş hayatınızda diplomatik yaklaşımlarınız takdir görecek. Alışveriş yapmak için uygun bir gün."
+            ]
+        },
+        {
+            "name": "22 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Merkür'ün etkisiyle iletişim becerileriniz güçlenecek. Önemli görüşmeler ve sunumlar için ideal bir gün. Eğitim hayatınızda başarılı olacaksınız. Kısa seyahatler gündeme gelebilir. Yazılı ve sözlü ifade yeteneğiniz yükselişte."
+            ]
+        },
+        {
+            "name": "23 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Jüpiter'in şanslı etkisiyle maddi konularda olumlu gelişmeler yaşayabilirsiniz. Yeni iş fırsatları karşınıza çıkabilir. Eğitim ve yurtdışı bağlantılı konularda şanslısınız. Manevi açıdan kendinizi zengin hissedeceksiniz."
+            ]
+        },
+        {
+            "name": "24 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Satürn'ün disiplinli etkisiyle iş hayatınızda düzen sağlayacaksınız. Uzun vadeli hedefleriniz için sağlam adımlar atabilirsiniz. Aile içi sorumluluklarınız artabilir. Sağlık konularında tedbirli olmalısınız."
+            ]
+        },
+        {
+            "name": "25 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Ay'ın yeniay etkisiyle yeni başlangıçlar için ideal bir gün. Duygusal konularda yeni bir sayfa açabilirsiniz. İş hayatınızda yeni projeler başlatmak için uygun zaman. Kişisel gelişiminize odaklanmalısınız."
+            ]
+        },
+        {
+            "name": "26 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Güneş'in parlak etkisiyle özgüveniniz yükselecek. Kariyerinizde önemli fırsatlar yakalayabilirsiniz. Sosyal çevrenizde popülerliğiniz artacak. Yaratıcı projeleriniz için destek göreceksiniz."
+            ]
+        },
+        {
+            "name": "27 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Uranüs'ün yenilikçi etkisiyle teknolojik konularda başarılı olacaksınız. Beklenmedik fırsatlar karşınıza çıkabilir. Arkadaş çevrenizde heyecan verici gelişmeler yaşanabilir. Özgür ruhlu yaklaşımlarınız dikkat çekecek."
+            ]
+        },
+        {
+            "name": "28 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Neptün'ün etkisiyle sanatsal yetenekleriniz ön plana çıkacak. Ruhsal konulara ilginiz artabilir. İş hayatınızda detaylara dikkat etmelisiniz. Meditasyon ve dinlenme için ideal bir gün."
+            ]
+        },
+        {
+            "name": "29 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Plüton'un güçlü etkisiyle iç dünyanızda derinleşeceksiniz. Kariyerinizde önemli dönüşümler yaşanabilir. Finansal konularda stratejik düşünmelisiniz. Kişisel güç ve kontrolünüz artacak."
+            ]
+        },
+        {
+            "name": "30 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Mars'ın dinamik etkisiyle enerjiniz yüksek olacak. Sportif faaliyetlerde başarı göstereceksiniz. İş hayatınızda rekabetçi ortamlarda öne çıkacaksınız. Aşk hayatınızda tutkulu yaklaşımlar sergileyebilirsiniz."
+            ]
+        },
+        {
+            "name": "31 Ocak",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Venüs'ün uyumlu etkisiyle ilişkilerinizde harmoni yakalayacaksınız. Sanatsal aktivitelerde başarılı olacaksınız. İş hayatınızda uzlaşmacı tavrınız takdir görecek. Finansal konularda şanslı bir gün."
+            ]
+        },
+        {
+            "name": "1 Şubat",
+            "path": "burc/1.mp3",
+            "image": "burc-koc/koc.jpg",
+            "description": [
+                "Merkür'ün zekâ açıcı etkisiyle iletişimde başarılı olacaksınız. Yeni ay ile birlikte taze başlangıçlar için ideal bir dönem. İş ve eğitim hayatınızda önemli gelişmeler yaşanabilir. Sosyal çevrenizde etkili konuşmalarınızla dikkat çekeceksiniz."
+            ]
+        }
+    ]
+} 

@@ -1,0 +1,16 @@
+{
+    "name": "Akrep Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-akrep/akrep.jpg",
+    "description": "Akrep burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-akrep/akrep.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

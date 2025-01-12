@@ -1,0 +1,16 @@
+{
+    "name": "Yengeç Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-yengec/yengec.jpg",
+    "description": "Yengeç burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-yengec/yengec.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

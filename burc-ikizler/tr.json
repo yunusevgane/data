@@ -1,0 +1,16 @@
+{
+    "name": "İkizler Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-ikizler/ikizler.jpg",
+    "description": "İkizler burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-ikizler/ikizler.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

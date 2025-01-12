@@ -19,7 +19,8 @@
                 "Merkür'ün yörüngesi elips şeklindedir ve diğer gezegenlere göre Güneş'e çok daha yakındır. Bu yakınlık, Einstein'ın Genel Görelilik Teorisi'nin test edilmesinde önemli rol oynamıştır.",
                 "Gezegenin gündüz ve gece sıcaklıkları arasındaki fark yaklaşık altı yüz derecedir. Bu ekstrem sıcaklık değişimleri, Merkür'ün yüzeyinde sürekli bir genleşme ve büzülmeye neden olur.",
                 "Merkür'ün keşif yolculuğu hala devam ediyor. Mariner on ve MESSENGER uzay araçlarından sonra, BepiColombo misyonu gezegenin gizemlerini çözmeye devam ediyor. Her yeni keşif, bu küçük gezegenin büyük sırlarını aydınlatıyor."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a cinematic view of Mercury, the smallest planet in our solar system, with its cratered surface reflecting the intense sunlight from its close proximity to the Sun",
                 "Generate a dramatic visualization of Mercury's iron core and magnetic field, showing the planet's unique features against the backdrop of the solar system",
                 "Visualize Mercury's vast Caloris Basin impact crater, showcasing the planet's scarred surface under extreme solar radiation",
@@ -41,7 +42,7 @@
                 "Generate an artistic representation of Mercury's formation in the early solar system",
                 "Show Mercury's unique orbital resonance, with three rotations for every two orbits around the Sun"
             ]
-        }, 
+        },
         {
             "name": "Bölüm 2: Yüzey Yapısı",
             "path": "merkur/bolum2.mp3",
@@ -57,7 +58,8 @@
                 "Yüzeydeki bazı kraterler içinde görülen parlak noktalar, nispeten yeni çarpmaların kanıtıdır. Bu alanlar, gezegenin hala meteor çarpmalarına maruz kaldığını gösterir.",
                 "Merkür'ün yüzeyinde bulunan dairesel sırtlar, dev meteor çarpmalarının yarattığı şok dalgalarının sonucudur. Bu yapılar, çarpma mekaniği hakkında değerli bilgiler sunar.",
                 "Gezegenin yüzeyindeki pürüzsüz ovalar, güneş sisteminin erken dönemlerindeki yoğun volkanik aktivitenin kanıtıdır. Bu alanlar, Merkür'ün dinamik geçmişini anlamamıza yardımcı olur."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a detailed visualization of Mercury's Caloris Basin, showing the massive impact crater's complex structure",
                 "Generate a dramatic view of Mercury's scarred surface, highlighting the ancient volcanic plains",
                 "Show Mercury's fault scarps and ridges, evidence of the planet's global contraction",
@@ -95,7 +97,8 @@
                 "Güneş'e yakınlığı nedeniyle, Merkür'ün atmosferi sürekli olarak uzaya kaçar. Ancak güneş rüzgarları ve meteor çarpmaları yeni gazlar ekleyerek bu kaybı kısmen dengeler.",
                 "Merkür'ün gece ve gündüz tarafları arasındaki büyük sıcaklık farkı, gezegenin yüzeyinde sürekli bir genleşme ve büzülmeye neden olur. Bu durum yüzey şekillerini etkiler.",
                 "Atmosferin çok ince olması, Merkür'ün yüzeyini kozmik ışınlara ve meteor çarpmalarına karşı savunmasız bırakır. Bu durum, yüzeyin sürekli değişmesine neden olur."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a visualization of Mercury's tenuous exosphere interacting with intense solar radiation",
                 "Show the dynamic nature of Mercury's atmosphere as it's constantly stripped away by solar wind",
                 "Generate a view of Mercury's atmospheric composition, highlighting the presence of various elements",
@@ -133,7 +136,8 @@
                 "MESSENGER uzay aracının ölçümleri, Merkür'ün manyetik alanının düşünülenden daha karmaşık olduğunu ortaya koydu. Alan şiddeti, yüzeyin farklı bölgelerinde değişkenlik gösterir.",
                 "Merkür'ün manyetik alanı, güneş fırtınaları sırasında önemli değişimler gösterir. Bu değişimler, gezegenin manyetosferinin dinamik yapısını yansıtır.",
                 "Manyetik alanın zayıf olması, güneş rüzgarlarının yüzeye daha fazla ulaşmasına neden olur. Bu durum, yüzey minerallerinin kimyasal yapısını etkiler."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a visualization of Mercury's magnetic field lines interacting with the solar wind",
                 "Show the dynamic nature of Mercury's magnetosphere under solar storm conditions",
                 "Generate a view of Mercury's magnetic field strength compared to other planets",
@@ -171,7 +175,8 @@
                 "Merkür'ün çekirdeğinin soğuma süreci, gezegenin büzülmesine neden olur. Bu büzülme, yüzeyde görülen fay hatlarının oluşumuna yol açar.",
                 "İç yapıdaki ısı dağılımı, gezegenin volkanik geçmişini şekillendirmiştir. Eski volkanik aktivitelerin izleri, yüzeydeki geniş ovalarda görülebilir.",
                 "Merkür'ün iç yapısının anlaşılması, güneş sisteminin oluşum sürecine ışık tutar. Her yeni keşif, gezegenlerin oluşum teorilerini gözden geçirmemizi sağlar."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a cross-sectional view of Mercury's layered internal structure",
                 "Show the massive iron core that dominates Mercury's interior",
                 "Generate a visualization of Mercury's thin mantle and crust",
@@ -209,7 +214,8 @@
                 "Uzay araçlarının termal koruması, Merkür'ün keşfinde en büyük teknik zorluklardan biridir. Her yeni misyon, bu soruna yenilikçi çözümler getirmiştir.",
                 "Merkür'ün yörüngesindeki sapmalar, Einstein'ın Genel Görelilik Teorisi'nin doğrulanmasında önemli rol oynamıştır. Bu gözlemler, modern fiziğin temellerini güçlendirmiştir.",
                 "Gelecekteki keşif planları, Merkür'ün yüzeyine iniş yapmayı hedefliyor. Bu zorlu görev, uzay teknolojisinde yeni gelişmeleri gerektirecektir."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a cinematic view of Mercury's surface, highlighting its cratered surface and close proximity to the Sun",
                 "Generate a dramatic visualization of Mercury's surface, showing the planet's unique features against the backdrop of the solar system",
                 "Visualize Mercury's surface being constantly altered by space weather",
@@ -247,7 +253,8 @@
                 "Gezegenin yörünge özelliklerinin incelenmesi, güneş sisteminin oluşumu hakkında ipuçları verir. Her yeni gözlem, gezegenlerin oluşum teorilerini geliştirmemize yardımcı olur.",
                 "Merkür'ün yörünge kararsızlığı, uzun vadede değişim gösterebilir. Bilgisayar simülasyonları, milyonlarca yıl sonra yörüngenin nasıl değişebileceğini tahmin etmemizi sağlar.",
                 "Yörünge özellikleri, Merkür'deki gün ve gece sürelerini belirler. Bir Merkür günü, iki Merkür yılından daha uzundur."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a cinematic view of Mercury's orbit around the Sun, emphasizing its elliptical path",
                 "Generate a dramatic visualization of Mercury's orbit around the Sun, showing the planet's unique features against the backdrop of the solar system",
                 "Visualize Mercury's orbit around the Sun, showcasing the planet's elliptical path",
@@ -285,7 +292,8 @@
                 "Merkür'ün kutuplarındaki buz depolarının kalınlığı, birkaç metreden onlarca metreye kadar değişir. Bu değişim, buzun birikme sürecinin karmaşıklığını gösterir.",
                 "Kutup bölgelerinin haritalanması, gelecekteki keşif misyonları için büyük önem taşır. Bu bölgeler, Merkür'ün su tarihini anlamamız için anahtar role sahiptir.",
                 "Kutuplardaki buz varlığı, Merkür gibi Güneş'e çok yakın bir gezegende bile su bulunabileceğini gösterir. Bu keşif, güneş sistemindeki su dağılımı hakkındaki teorilerimizi değiştirdi."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a cinematic view of Mercury's polar ice deposits hidden in permanently shadowed craters, contrasting with the scorching equatorial regions",
                 "Generate a dramatic visualization of Mercury's polar ice deposits hidden in permanently shadowed craters, contrasting with the scorching equatorial regions",
                 "Visualize Mercury's polar ice deposits hidden in permanently shadowed craters, contrasting with the scorching equatorial regions",
@@ -323,7 +331,8 @@
                 "Güneş'in yoğun ısısı, Merkür'ün yüzeyinde termal genleşme ve büzülmelere neden olur. Bu süreç, yüzeydeki çatlakların ve fayların oluşumuna katkıda bulunur.",
                 "Merkür'ün gündüz tarafındaki yoğun ısınma, gezegenin ince atmosferinde metal buharlaşmasına neden olur. Bu buharlaşan metaller, gezegenin kuyruk benzeri bir yapı oluşturmasına katkıda bulunur.",
                 "Güneş aktivitesindeki değişimler, Merkür'ün yüzey ve atmosfer özelliklerini doğrudan etkiler. Bu etkileşim, gezegenin dinamik yapısını sürekli olarak şekillendirir."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a cinematic view of Mercury's atmosphere, highlighting its thin exosphere and interaction with the solar wind",
                 "Generate a dramatic visualization of Mercury's atmosphere, showing the planet's unique features against the backdrop of the solar system",
                 "Visualize Mercury's atmosphere being constantly altered by space weather",
@@ -361,7 +370,8 @@
                 "Gelecekteki misyonlar, Merkür'ün yüzeyindeki minerallerin detaylı kimyasal analizini yapacak. Bu bilgiler, gezegenin jeolojik tarihini daha iyi anlamamızı sağlayacak.",
                 "Yeni gözlem teknikleri, Merkür'ün gece tarafındaki aktiviteleri incelemeyi mümkün kılacak. Bu gözlemler, gezegenin karanlık yüzündeki gizemleri aydınlatacak.",
                 "Uluslararası uzay ajansları, Merkür'ün daha kapsamlı keşfi için işbirliği yapıyor. Bu ortak çabalar, güneş sisteminin en gizemli gezegenlerinden birini daha iyi anlamamızı sağlayacak."
-            ], "prompt": [
+            ],
+            "prompt": [
                 "Create a cinematic view of Mercury's surface, highlighting its cratered surface and close proximity to the Sun",
                 "Generate a dramatic visualization of Mercury's surface, showing the planet's unique features against the backdrop of the solar system",
                 "Visualize Mercury's surface being constantly altered by space weather",

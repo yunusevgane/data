@@ -1,0 +1,16 @@
+{
+    "name": "Başak Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-basak/basak.jpg",
+    "description": "Başak burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-basak/basak.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

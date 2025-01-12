@@ -1,0 +1,16 @@
+{
+    "name": "Yay Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-yay/yay.jpg",
+    "description": "Yay burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-yay/yay.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 

@@ -1,0 +1,17 @@
+{
+    "name": "Aslan Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-aslan/aslan.jpg",
+    "description": "Aslan burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-aslan/aslan.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+}
+

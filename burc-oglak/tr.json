@@ -1,0 +1,16 @@
+{
+    "name": "Oğlak Burcu Yorumları",
+    "category": "burc",
+    "image": "burc-oglak/oglak.jpg",
+    "description": "Oğlak burcu günlük yorumları",
+    "child": [
+        {
+            "name": "Yorum 1",
+            "path": "burc/1.mp3",
+            "image": "burc-oglak/oglak.jpg",
+            "description": [
+                ""
+            ]
+        }
+    ]
+} 
